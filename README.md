@@ -1,25 +1,25 @@
-# Hi, I’m Simon — MBBS | MSc Computer Science with AI 👋
+# Hi, I’m Simon — MBBS | MSc Computer Science with Artificial Intelligence 👋
 
-Bridging medicine and AI to deliver **clinically-informed digital health solutions**.
+Bridging medicine & AI to deliver **clinically-informed digital health solutions**.
 
 ---
 
 ## About Me
 
-I am a medically trained professional (MBBS) transitioning into healthcare technology through an MSc in Computer Science with AI. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **both technically robust and medically interpretable**.
+I am a clinically trained medical professional (MBBS) transitioning into healthcare technology through an MSc in Computer Science with AI. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **both technically robust and medically interpretable**.
 
-My goal: to create intelligent healthcare systems that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings.
+**My goal**: to develop, validate, and deploy intelligent healthcare solutions that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings, to advance healthcare innovation in areas including data science, digital health product management, AI/ML in medicine and health informatics.
 
 ---
 
 ## Skills
 
-**Programming & Software Engineering:** Python, OOP, SQL/NoSQL, Git/GitHub, Testing, Modular Design, CI/CD  
-**Artificial Intelligence & Machine Learning:** Rule-based AI, Bayesian inference, NLP, TensorFlow, PyTorch, Scikit-learn  
-**Data Handling & Visualization:** Pandas, Matplotlib, Seaborn, ASCII charts, Healthcare analytics  
-**Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), FHIR, HL7, GDPR compliance  
-**UX & HCI:** CLI design, user-centered interfaces, portfolio-ready visualisation  
-**Cloud & DevOps:** AWS/Azure basics, distributed systems  
+- **Programming & Software Engineering:** Python, OOP, SQL/NoSQL, Git/GitHub, Testing, Modular Design, CI/CD  
+- **Artificial Intelligence & Machine Learning:** Rule-based AI, Bayesian inference, NLP, TensorFlow, PyTorch, Scikit-learn  
+- **Data Handling & Visualization:** Pandas, Matplotlib, Seaborn, ASCII charts, Healthcare analytics  
+- **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), FHIR, HL7, GDPR compliance  
+- **UX & HCI:** CLI design, user-centered interfaces, portfolio-ready visualisation  
+- **Cloud & DevOps:** AWS/Azure basics, distributed systems  
 
 ---
 
@@ -59,7 +59,7 @@ A **Python-based CLI tool** for multi-patient vitals monitoring with **real-time
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/simonyip/) | [GitHub](https://github.com/SimonYip22) | Portfolio coming soon
+[LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22) | Portfolio coming soon
 
 ---
 
