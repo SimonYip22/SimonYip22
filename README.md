@@ -1,20 +1,19 @@
 # 👋 Hi, I’m Simon — MBBS | MSc Computer Science with Artificial Intelligence
 
-*Clinically-informed, technically rigorous, and designed to make me an **irreplacable clinician-technologist in healthcare AI**.*
+***Bridging medicine & AI to deliver clinically-informed digital health solutions***
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow-NLP-orange)
-![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-blue)
-![Healthcare](https://img.shields.io/badge/Healthcare-Data%20Science-green)
+![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow%20%26%20NLP-orange)
+![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellowgreen)
+![Healthcare](https://img.shields.io/badge/Healthcare-Data%20Science-red)
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Data%20Driven-green)
-![CLI Tools](https://img.shields.io/badge/CLI-Command%20Line%20Interfaces-lightgrey)
+![CLI Tools](https://img.shields.io/badge/CLI-Command%20Line%20Interfaces-ff69b4)
 ![Data Visualisation](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%26%20ASCII-blueviolet)
 ![EHR & FHIR](https://img.shields.io/badge/EHR%20%26%20FHIR-Standards%20Compliant-lightblue)
 ![GDPR](https://img.shields.io/badge/GDPR-Privacy%20Compliant-yellow)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![Git](https://img.shields.io/badge/Git-Version%20Control-informational)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-brightgreen)
 
-***Bridging medicine & AI to deliver clinically-informed digital health solutions***
 
 [LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22)
 
@@ -92,3 +91,5 @@ A **Python-based CLI tool** for **multi-patient vitals monitoring**, **real-time
 [LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22) | Portfolio coming soon 🌐
 
 ---
+
+*Clinically-informed, technically rigorous, and designed to make me an **irreplacable clinician-technologist in healthcare AI**.*
