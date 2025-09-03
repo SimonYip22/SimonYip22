@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Simon — MBBS | MSc Computer Science with Artificial Intelligence
 
-***Clinically-informed, technically rigorous, and designed to deliver digital health solutions that only a clinician could envision*** 
-
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow%20%26%20NLP-orange)
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellowgreen)
@@ -14,6 +12,7 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-informational)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-brightgreen)
 
+***Clinically-informed, technically rigorous, and designed to deliver digital health solutions that only a clinician could envision*** 
 
 [LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22)
 
