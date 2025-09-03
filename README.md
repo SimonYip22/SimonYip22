@@ -10,7 +10,7 @@
 ![FHIR](https://img.shields.io/badge/FHIR-Standards-orange)
 ![Healthcare](https://img.shields.io/badge/Healthcare-Data%20Science-green)
 
-🩺💻 Bridging **medicine & AI** to deliver **clinically-informed digital health solutions**.
+Bridging **medicine & AI** to deliver **clinically-informed digital health solutions**.
 
 [LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22)
 
