@@ -1,14 +1,18 @@
 # 👋 Hi, I’m Simon — MBBS | MSc Computer Science with Artificial Intelligence
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-blueviolet)
-![CLI](https://img.shields.io/badge/CLI-Terminal-brightgreen)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+*Clinically-informed, technically rigorous, and designed to make me an **irreplacable clinician-technologist in healthcare AI**.*
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow-NLP-orange)
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-blue)
-![FHIR](https://img.shields.io/badge/FHIR-Standards-orange)
 ![Healthcare](https://img.shields.io/badge/Healthcare-Data%20Science-green)
+![Digital Health](https://img.shields.io/badge/Digital%20Health-Data%20Driven-green)
+![CLI Tools](https://img.shields.io/badge/CLI-Command%20Line%20Interfaces-lightgrey)
+![Data Visualisation](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%26%20ASCII-blueviolet)
+![EHR & FHIR](https://img.shields.io/badge/EHR%20%26%20FHIR-Standards%20Compliant-lightblue)
+![GDPR](https://img.shields.io/badge/GDPR-Privacy%20Compliant-yellow)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-brightgreen)
 
 ***Bridging medicine & AI to deliver clinically-informed digital health solutions***
 
@@ -54,7 +58,7 @@ A **Python CLI tool** leveraging **clinically-informed rule-based AI** to interp
 
 ---
 
-### 💉🏥 Vitals Tracker CLI
+### 🩺 📈 Vitals Tracker CLI
 [GitHub Repo](https://github.com/SimonYip22/Vitals-Tracker-CLI)  
 
 A **Python-based CLI tool** for **multi-patient vitals monitoring**, **real-time NEWS2 scoring**, tiered clinical alerts, and trend visualisation (ASCII & Matplotlib). Designed with **clinically-informed logic**, GDPR-compliant patient management, and longitudinal tracking.
@@ -88,5 +92,3 @@ A **Python-based CLI tool** for **multi-patient vitals monitoring**, **real-time
 [LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22) | Portfolio coming soon 🌐
 
 ---
-
-*Clinically-informed, technically rigorous, and designed to make me an **irreplacable clinician-technologist in healthcare AI**.*
