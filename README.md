@@ -20,15 +20,15 @@
 
 I am a clinically trained medical professional (MBBS) transitioning into healthcare technology through an MSc in Computer Science with AI. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **technically robust and medically interpretable**.
 
-**My goal:** to develop, validate, and deploy intelligent healthcare solutions that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings. My focus areas include **data science, digital health product management, AI/ML in medicine, and health informatics**.
+My goal is to develop, validate, and deploy intelligent healthcare solutions that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings. My focus areas include **data science, digital health product management, AI/ML in medicine, and health informatics**.
 
 ---
 
-## 💡 Skills
+## 💡 Technical Skills
 
 - **Programming & Software Engineering:** Python, OOP, SQL/NoSQL, Git/GitHub, Testing, Modular Design, CI/CD  
 - **Artificial Intelligence & Machine Learning:** Rule-based AI, Bayesian inference, NLP, TensorFlow, PyTorch, Scikit-learn  
-- **Data Handling & Visualization:** Pandas, Matplotlib, Seaborn, ASCII charts, Healthcare analytics  
+- **Data Handling & Visualisation:** Pandas, Matplotlib, Seaborn, ASCII charts, Healthcare analytics  
 - **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), FHIR, HL7, GDPR compliance  
 - **UX & HCI:** CLI design, user-centered interfaces, portfolio-ready visualisation  
 - **Cloud & DevOps:** AWS/Azure basics, distributed systems  
