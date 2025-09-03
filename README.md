@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Simon — MBBS | MSc Computer Science with Artificial Intelligence
 
-***Bridging medicine & AI to deliver clinically-informed digital health solutions***
+***Clinically-informed, technically rigorous, and designed to deliver digital health solutions that only a clinician could envision*** 
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow%20%26%20NLP-orange)
@@ -19,22 +19,26 @@
 
 ---
 
-## 🧑‍⚕️ About Me
+## 👤 About Me
+
+***Bridging medicine & AI to deliver clinically-informed digital health solutions***
 
 I am a clinically trained medical professional (MBBS) transitioning into healthcare technology through an MSc in Computer Science with AI. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **technically robust and medically interpretable**.
 
-My goal is to develop, validate, and deploy intelligent healthcare solutions that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings. My focus areas include **data science, digital health product management, AI/ML in medicine, and health informatics**.
+My goal is to develop, validate, and deploy intelligent healthcare solutions that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings. 
+
+My focus areas include **data science, digital health product management, AI/ML in medicine, and health informatics**.
 
 ---
 
-## 💡 Technical Skills
+## 💡⚙️ Technical Skills
 
-- **Programming & Software Engineering:** Python, OOP, SQL/NoSQL, Git/GitHub, Testing, Modular Design, CI/CD  
-- **Artificial Intelligence & Machine Learning:** Rule-based AI, Bayesian inference, NLP, TensorFlow, PyTorch, Scikit-learn  
-- **Data Handling & Visualisation:** Pandas, Matplotlib, Seaborn, ASCII charts, Healthcare analytics  
-- **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), FHIR, HL7, GDPR compliance  
-- **UX & HCI:** CLI design, user-centered interfaces, portfolio-ready visualisation  
-- **Cloud & DevOps:** AWS/Azure basics, distributed systems  
+- 💾 **Programming & Software Engineering:** Python, OOP, SQL/NoSQL, Git/GitHub, Testing, Modular Design, CI/CD  
+- 🤖 **Artificial Intelligence & Machine Learning:** Rule-based AI, Bayesian inference, NLP, TensorFlow, PyTorch, Scikit-learn  
+- 📊 **Data Handling & Visualisation:** Pandas, Matplotlib, Seaborn, ASCII charts, Healthcare analytics  
+- 🏥 **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), FHIR, HL7, GDPR compliance  
+- 🖥 **UX & HCI:** CLI design, user-centered interfaces, portfolio-ready visualisation  
+- ☁️ **Cloud & DevOps:** AWS/Azure basics, distributed systems  
 
 ---
 
@@ -52,6 +56,7 @@ A **Python CLI tool** leveraging **clinically-informed rule-based AI** to interp
 - Modular, testable architecture enabling **future AI/ML and front-end integration**  
 
 **Workflow Overview:**  
+
 ![Symptom Checker Flowchart](symptom-checker-flowchart.png)
 *Figure 1: Rule-based AI symptom checker workflow showing symptom input, weighted scoring, and top condition output with advice.*
 
@@ -70,10 +75,12 @@ A **Python-based CLI tool** for **multi-patient vitals monitoring**, **real-time
 - Modular architecture supporting **future AI/ML predictive extensions**  
 
 **Workflow Overview:**  
+
 ![Vitals Tracker Flowchart](vitals-tracker-flowchart.png)
 *Figure 2: CLI-based patient vitals tracking workflow with NEWS2 scoring, alert logic, and trend visualisation.*
 
 **Example Plot:**  
+
 ![Vitals Tracker Matplotlib Plot](vitals-tracker-matplotlib.png)
 *Figure 3: Dual-axis Matplotlib plot of patient vitals over time with NEWS2 scores. Clinically-informed alerts are highlighted, demonstrating portfolio-ready visualisation and interpretation.*
 
@@ -86,7 +93,7 @@ A **Python-based CLI tool** for **multi-patient vitals monitoring**, **real-time
 
 ---
 
-## 📬 Connect with Me
+## 📬🤝 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22) | Portfolio coming soon 🌐
 
