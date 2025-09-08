@@ -44,20 +44,23 @@ My focus areas include **data science, digital health product management, AI/ML 
 ## 🚀 Featured Projects
 
 ### 🧠🤖 AI Symptom Checker
-[GitHub Repo](https://github.com/SimonYip22/AI-Symptom-Checker)  
+[GitHub Repo](https://github.com/SimonYip22/AI-Symptom-Checker) | [Live API](https://ai-symptom-checker-5rfb.onrender.com)
 
-A **Python CLI tool** leveraging **clinically-informed rule-based AI** to interpret patient symptoms and rank potential conditions. Unlike generic AI tools, the system encodes **clinician-level symptom-to-condition mappings**, producing outputs that are **interpretable, relevant, and clinically meaningful**.  
+A **Python-based AI symptom checker** combining **rule-based inference** with **clinically-informed logic** to interpret patient-reported symptoms and rank likely conditions.  
+
+Unlike generic AI tools, this project encodes **doctor-level clinical reasoning**, using weighted symptom–condition mappings and input normalisation to reflect real-world prioritisation.  
 
 **Highlights:**
-- Clinically-informed input handling for lay-language symptoms  
-- Rule-based inference with **formula-weighted scoring** reflecting real-world prioritisation  
-- Structured CLI workflow emulating **clinical reasoning steps**  
-- Modular, testable architecture enabling **future AI/ML and front-end integration**  
+- 🏥 Clinically-informed input handling for lay-language symptoms  
+- ⚖️ Rule-based inference with **formula-weighted scoring** ensuring interpretable, relevant outputs  
+- 💻 Dual interface: **Command-line tool** + **FastAPI JSON API (live on Render)**  
+- 🔄 **Continuous Integration (GitHub Actions)** validates API endpoints weekly and on push  
+- 🧩 Modular architecture, future-ready for **ML/NLP integration and frontend expansion**  
 
 **Workflow Overview:**  
 
-![Symptom Checker Flowchart](symptom-checker-flowchart.png)
-*Figure 1: Rule-based AI symptom checker workflow showing symptom input, weighted scoring, and top condition output with advice.*
+![Symptom Checker Flowchart](symptom-checker-flowchart.png)  
+*Figure: Rule-based AI symptom checker workflow showing symptom input, weighted scoring, and top condition output with advice.*
 
 ---
 
