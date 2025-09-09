@@ -60,7 +60,7 @@ Unlike generic AI tools, this project encodes **doctor-level clinical reasoning*
 **Workflow Overview:**  
 
 ![Symptom Checker Flowchart](symptom-checker-flowchart.png)  
-*Figure: Rule-based AI symptom checker workflow showing symptom input, weighted scoring, and top condition output with advice.*
+*Figure 1: Rule-based AI symptom checker workflow showing symptom input, weighted scoring, and top condition output with advice.*
 
 ---
 
