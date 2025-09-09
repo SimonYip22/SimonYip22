@@ -81,7 +81,7 @@ A **Python-based CLI tool** for **multi-patient vitals monitoring**, **real-time
 ![Vitals Tracker Flowchart](vitals-tracker-flowchart.png)
 *Figure 2: CLI-based patient vitals tracking workflow with NEWS2 scoring, alert logic, and trend visualisation.*
 
-**Example Plot:**  
+**Example Matplotlib Plot:**  
 
 ![Vitals Tracker Matplotlib Plot](vitals-tracker-matplotlib.png)
 *Figure 3: Dual-axis Matplotlib plot of patient vitals over time with NEWS2 scores. Clinically-informed alerts are highlighted, demonstrating portfolio-ready visualisation and interpretation.*
