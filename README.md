@@ -1,15 +1,33 @@
 # 👋 Hi, I’m Simon — MBBS | MSc Computer Science with Artificial Intelligence
 
+## 🛠 Tech & Clinical Stack
+
+### Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20API-green)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-lightgrey)
+![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-orange)
+
+### Testing, CI/CD & Deployment
+![Pytest](https://img.shields.io/badge/Pytest-Testing-yellow)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue)
+![Render](https://img.shields.io/badge/Deployment-Render-purple)
+
+### AI/ML & Data Science
 ![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow%20%26%20NLP-orange)
-![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellowgreen)
-![Healthcare](https://img.shields.io/badge/Healthcare-Data%20Science-red)
-![Digital Health](https://img.shields.io/badge/Digital%20Health-Data%20Driven-green)
-![CLI Tools](https://img.shields.io/badge/CLI-Command%20Line%20Interfaces-ff69b4)
 ![Data Visualisation](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%26%20ASCII-blueviolet)
+![Data Persistence](https://img.shields.io/badge/Data-CSV%20%26%20Longitudinal%20Storage-teal)
+
+### Clinical Expertise
+![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellowgreen)
+![Clinical Scoring](https://img.shields.io/badge/NEWS2-Early%20Warning%20System-red)
+![Digital Health](https://img.shields.io/badge/Digital%20Health-Data%20Driven-green)
 ![EHR & FHIR](https://img.shields.io/badge/EHR%20%26%20FHIR-Standards%20Compliant-lightblue)
 ![GDPR](https://img.shields.io/badge/GDPR-Privacy%20Compliant-yellow)
+
+### Software Engineering & Portfolio
 ![Git](https://img.shields.io/badge/Git-Version%20Control-informational)
+![CLI Tools](https://img.shields.io/badge/CLI-Command%20Line%20Interfaces-ff69b4)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-brightgreen)
 
 ***Clinically-informed, technically rigorous, and designed to deliver digital health solutions that only a clinician could envision*** 
@@ -43,7 +61,7 @@ My focus areas include **data science, digital health product management, AI/ML 
 
 ## 🚀 Featured Projects
 
-### 🧠🤖 AI Symptom Checker
+### 🧠🤖 Rule-Based AI Symptom Checker (CLI & FastAPI)
 [GitHub Repo](https://github.com/SimonYip22/AI-Symptom-Checker) | [Live API](https://ai-symptom-checker-5rfb.onrender.com)
 
 A **Python-based AI symptom checker** combining **rule-based inference** with **clinically-informed logic** to interpret patient-reported symptoms and rank likely conditions.  
@@ -53,7 +71,7 @@ Unlike generic AI tools, this project encodes **doctor-level clinical reasoning*
 **Highlights:**
 - 🏥 Clinically-informed input handling for lay-language symptoms  
 - ⚖️ Rule-based inference with **formula-weighted scoring** ensuring interpretable, relevant outputs  
-- 💻 Dual interface: **Command-line tool** + **FastAPI JSON API (live on Render)**  
+- 💻 **Dual interface**: **Command-line tool** + **FastAPI JSON API (live on Render)**  
 - 🔄 **Continuous Integration (GitHub Actions)** validates API endpoints weekly and on push  
 - 🧩 Modular architecture, future-ready for **ML/NLP integration and frontend expansion**  
 
@@ -64,22 +82,27 @@ Unlike generic AI tools, this project encodes **doctor-level clinical reasoning*
 
 ---
 
-### 🩺 📈 Vitals Tracker CLI
-[GitHub Repo](https://github.com/SimonYip22/Vitals-Tracker-CLI)  
+### 🩺 📈 Vitals Tracker with alerts & visualisation (CLI & FastAPI)
+[GitHub Repo](https://github.com/SimonYip22/Vitals-Tracker-CLI) | [Live API](https://vitals-tracker-cli.onrender.com/docs)
 
-A **Python-based CLI tool** for **multi-patient vitals monitoring**, **real-time NEWS2 scoring**, tiered clinical alerts, and trend visualisation (ASCII & Matplotlib). Designed with **clinically-informed logic**, GDPR-compliant patient management, and longitudinal tracking.
+A **Python-based CLI & FastAPI tool** for **multi-patient vitals monitoring**, **real-time NEWS2 scoring**, tiered clinical alerts, and trend visualisation (ASCII & Matplotlib). Designed with **clinically-informed logic**, GDPR-compliant patient management, and longitudinal tracking.  
+
+Supports clinicians in real-time monitoring, reduces risk of missed deterioration, and can integrate into hospital EHRs.
 
 **Highlights:**
-- Full vitals capture: BP, HR, RR, Temp, O₂ sats, Level of Consciousness  
-- Tiered alerts aligned with **clinical decision thresholds** (Normal → Mild → Moderate → Severe)  
-- Patient ID anonymisation for GDPR-compliant multi-patient tracking  
-- Portfolio-ready visualisations for trends and alerts  
-- Modular architecture supporting **future AI/ML predictive extensions**  
+- 🏥 Clinically-informed input handling for patient vitals with validation  
+- 📊 **Full vitals capture**: BP, HR, RR, Temp, O₂ sats, Level of Consciousness  
+- 🚨 Tiered NEWS2 scoring and alerts aligned with **clinical decision thresholds** (Normal → Mild → Moderate → Severe)
+- 💻 **Dual interface**: **Command-line tool** + **FastAPI JSON API (live on Render)** 
+- ❓ Patient ID anonymisation for GDPR-compliant longitudinal multi-patient tracking
+- 🔄 **Continuous Integration (GitHub Actions)** validates API endpoints weekly and on push
+- 📈 Portfolio-ready trend visualisation with ASCII charts and **Matplotlib plots**  
+- 🧩 Modular architecture supporting **future AI/ML predictive extensions**  
 
 **Workflow Overview:**  
 
 ![Vitals Tracker Flowchart](vitals-tracker-flowchart.png)
-*Figure 2: CLI-based patient vitals tracking workflow with NEWS2 scoring, alert logic, and trend visualisation.*
+*Figure 2: CLI & API patient vitals tracking workflow with NEWS2 scoring, alert logic, and trend visualisation.*
 
 **Example Matplotlib Plot:**  
 
