@@ -33,7 +33,7 @@
 
 ***Bridging medicine & AI to deliver clinically-informed digital health solutions***
 
-I am a clinically trained medical professional (MBBS) transitioning into healthcare technology through an MSc in Computer Science with AI. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **technically robust and medically interpretable**.
+I am a **clinically trained medical professional (MBBS)** transitioning into healthcare technology through an **MSc in Computer Science with AI**. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **technically robust and medically interpretable**.
 
 My goal is to develop, validate, and deploy intelligent healthcare solutions that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings. 
 
