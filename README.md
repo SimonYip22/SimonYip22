@@ -1,31 +1,24 @@
 # 👋 Hi, I’m Simon — MBBS | MSc Computer Science with Artificial Intelligence
 
-## 🛠 Tech & Clinical Stack
-
-### Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20API-green)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-lightgrey)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-orange)
 
-### Testing, CI/CD & Deployment
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-yellow)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue)
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 
-### AI/ML & Data Science
 ![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow%20%26%20NLP-orange)
 ![Data Visualisation](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%26%20ASCII-blueviolet)
 ![Data Persistence](https://img.shields.io/badge/Data-CSV%20%26%20Longitudinal%20Storage-teal)
 
-### Clinical Expertise
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellowgreen)
 ![Clinical Scoring](https://img.shields.io/badge/NEWS2-Early%20Warning%20System-red)
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Data%20Driven-green)
 ![EHR & FHIR](https://img.shields.io/badge/EHR%20%26%20FHIR-Standards%20Compliant-lightblue)
 ![GDPR](https://img.shields.io/badge/GDPR-Privacy%20Compliant-yellow)
 
-### Software Engineering & Portfolio
 ![Git](https://img.shields.io/badge/Git-Version%20Control-informational)
 ![CLI Tools](https://img.shields.io/badge/CLI-Command%20Line%20Interfaces-ff69b4)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-brightgreen)
