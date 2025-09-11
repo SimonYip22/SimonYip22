@@ -54,7 +54,7 @@ My focus areas include **data science, digital health product management, AI/ML 
 
 ## 🚀 Featured Projects
 
-### 🧠🔍 Rule-Based AI Symptom Checker (CLI & FastAPI)
+### 🧠🤖 Rule-Based AI Symptom Checker (CLI & FastAPI)
 [GitHub Repo](https://github.com/SimonYip22/AI-Symptom-Checker) | [Live API](https://ai-symptom-checker-5rfb.onrender.com)
 
 A **Python-based AI symptom checker** combining **rule-based inference** with **clinically-informed logic** to interpret patient-reported symptoms and rank likely conditions.  
