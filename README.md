@@ -104,6 +104,12 @@ Supports clinicians in real-time monitoring, reduces risk of missed deterioratio
 
 ---
 
+### ⏱️📊 Time-Series ML Early Warning System (EWS) for ICU Patient Deterioration
+
+**In Progress**
+
+---
+
 ### 🔮🚀 Future Projects
 - **Intelligent Clinical Decision Support Tool (CDST):** AI/ML-powered predictive risk stratification  
 - **EWS Expansion:** Full Early Warning Score system with predictive analytics  
