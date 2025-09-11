@@ -104,7 +104,7 @@ Supports clinicians in real-time monitoring, reduces risk of missed deterioratio
 
 ---
 
-### ⏱️📊 Time-Series ML Early Warning System (EWS) for ICU Patient Deterioration
+### 📈📊 Time-Series ML Early Warning System (EWS) for ICU Patient Deterioration
 
 **In Progress**
 
