@@ -54,7 +54,7 @@ My focus areas include **data science, digital health product management, AI/ML 
 
 ## 🚀 Featured Projects
 
-### 🧠🤖 Rule-Based AI Symptom Checker (CLI & FastAPI)
+### 🧠🔍 Rule-Based AI Symptom Checker (CLI & FastAPI)
 [GitHub Repo](https://github.com/SimonYip22/AI-Symptom-Checker) | [Live API](https://ai-symptom-checker-5rfb.onrender.com)
 
 A **Python-based AI symptom checker** combining **rule-based inference** with **clinically-informed logic** to interpret patient-reported symptoms and rank likely conditions.  
@@ -75,7 +75,7 @@ Unlike generic AI tools, this project encodes **doctor-level clinical reasoning*
 
 ---
 
-### 🩺 📈 Vitals Tracker with alerts & visualisation (CLI & FastAPI)
+### 🫀📉 NEWS2 Vitals Tracker with Alerts, Moitoring & visualisation (CLI & FastAPI)
 [GitHub Repo](https://github.com/SimonYip22/Vitals-Tracker-CLI) | [Live API](https://vitals-tracker-cli.onrender.com/docs)
 
 A **Python-based CLI & FastAPI tool** for **multi-patient vitals monitoring**, **real-time NEWS2 scoring**, tiered clinical alerts, and trend visualisation (ASCII & Matplotlib). Designed with **clinically-informed logic**, GDPR-compliant patient management, and longitudinal tracking.  
