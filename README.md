@@ -15,8 +15,8 @@
 - My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 ##
 ### 🎓 Education
-- **MSc Computer Science with Artificial Intelligence** [City St George's, University of London](https://www.citystgeorges.ac.uk)
-- **Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
+- **_Master's Degree (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
+- **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
 ##
 ### 💡 Interests
 - AI/ML in Medicine, Digital Health, Data Science, Product Management, Health Informatics
@@ -43,19 +43,19 @@
 - 🌐 **Web & API:** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
 ##
 ### 🚀 Portfolio Projects
-#### ⚡ Current Projects
+#### ⚡ _Current Projects_
 - 📈📊 [Time-Series ML Early Warning System (EWS) for ICU Patient Deterioration (LightGBM & Neural Network)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation (CLI & FastAPI)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker (CLI & FastAPI)](https://github.com/SimonYip22/AI-Symptom-Checker)
-#### 🔮 Future Projects
+#### 🔮 _Future Projects_
 - **Intelligent Clinical Decision Support Tool (CDST):** AI/ML-powered predictive risk stratification  
 - **NLP Clinical Findings Extraction:** Automating insights from unstructured clinical notes  
 ##
 ### 🔬 Audits & Research
-#### 📂 Research
+#### 📂 _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma
-#### 📋 Audits
+#### 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
 ##
