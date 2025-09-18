@@ -1,3 +1,4 @@
+# Hi I'm Simon 👋 - MBBS | CS + AI
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-blue) 
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-important) 
@@ -57,7 +58,7 @@
 - **NLP Clinical Findings Extraction:** Automating insights from unstructured clinical notes  
 
 ---
-
+<!--
 ## 🎖️ Featured Projects
 
 ### 🫀📉 NEWS2 Vitals Tracker with Alerts, Monitoring & visualisation (CLI & FastAPI)
@@ -109,3 +110,4 @@ Unlike generic AI tools, this project encodes **doctor-level clinical reasoning*
 *Figure 1: Rule-based AI symptom checker workflow showing symptom input, weighted scoring, and top condition output with advice.*
 
 ---
+-->
