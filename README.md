@@ -28,16 +28,18 @@
 
 ## ⚙️ Technical Skills
 
-![Python](https://skillicons.dev/icons?i=python)
-![AI](https://skillicons.dev/icons?i=ai)
-![Pytorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![Fastapi](https://skillicons.dev/icons?i=fastapi)
-![vscode](https://skillicons.dev/icons?i=vscode)
-![Notion](https://skillicons.dev/icons?i=notion)
-![Render](https://skillicons.dev/icons?i=heroku)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://skillicons.dev/icons?i=heroku" />
+</p>
 
 - 💾 **Programming & Software Engineering:** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
 - 🤖 **AI & ML:** LightGBM, PyTorch, Scikit-learn, TCN, NLP, Time-series modelling, Feature engineering, Rule-based AI
