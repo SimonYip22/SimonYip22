@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/simonyip22/)  ·  [GitHub](https://github.com/SimonYip22) · Portfolio coming soon 🌐
+🌐 [LinkedIn](https://www.linkedin.com/in/simonyip22/)  ·  [GitHub](https://github.com/SimonYip22) · Portfolio coming soon
 
 ---
 
