@@ -19,7 +19,6 @@
 
 <!-- ### Clinical & Digital Health -->
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellowgreen)
-![Clinical Scoring](https://img.shields.io/badge/NEWS2-Early%20Warning%20System-red)
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Data%20Driven-green)
 ![EHR & FHIR](https://img.shields.io/badge/EHR%20%26%20FHIR-Standards%20Compliant-lightblue)
 ![GDPR](https://img.shields.io/badge/GDPR-Privacy%20Compliant-yellow)
