@@ -1,4 +1,4 @@
-# Hi I'm Simon 👋
+# Bridging Medicine & AI 🩻 💻
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-blue) 
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-important) 
