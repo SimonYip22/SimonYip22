@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Simon - MBBS | MSc Computer Science with Artificial Intelligence
 
-## 💡 Technical Skills
-
-### 🖥 Programming & Software Engineering
 ![Python](https://skillicons.dev/icons?i=python)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github)
