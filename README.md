@@ -52,10 +52,10 @@
 - **NLP Clinical Findings Extraction:** Automating insights from unstructured clinical notes  
 ##
 ### 🔬 Audits & Research
-**Research**
+#### 📂 Research
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases
 - Giant trichoblastic carcinoma initilly misdiagnosed as basal cell carcinoma
-**Audits**
+#### 📋 Audits
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
 ---
