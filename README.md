@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Simon 
-# MBBS | MSc Computer Science with Artificial Intelligence
+# 👋 Hi, I’m Simon - MBBS | MSc Computer Science with Artificial Intelligence
 
 <!-- ### Core Tech -->
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
