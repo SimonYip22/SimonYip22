@@ -1,9 +1,9 @@
 ## 👤 About Me
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-blue) 
+![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-red) 
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-important) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Time%20Series%20&%20Neural%20Networks-ff69b4) 
-![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-red) 
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 
