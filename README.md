@@ -8,18 +8,19 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 
 🌐 [LinkedIn](https://www.linkedin.com/in/simonyip22/) · Portfolio website coming soon
+##
 ### 📝 Summary
 - Clinically trained medical professional (MBBS) transitioning into healthcare technology with a Master's degree in Computer Science with AI, focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
 - I specialise in clinically-informed software development, combining Python, AI & Machine Learning, NLP, and data analytics to build tools that are technically robust and medically interpretable.
 - My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
-
+##
 ### 🎓 Education
 - **MSc Computer Science with Artificial Intelligence** [City St George's, University of London](https://www.citystgeorges.ac.uk)
 - **Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
-
+##
 ### 💡 Interests
 - AI/ML in Medicine, Digital Health, Data Science, Product Management, Health Informatics
-
+##
 ### ⚙️ Technical Skills
 
 <p align="center">
@@ -40,7 +41,7 @@
 - 📊 **Data Handling & Visualisation:** Pandas, NumPy, Matplotlib, ASCII charts, Healthcare analytics (Tabular EHR/ICU data, longitudinal patient data)
 - 🏥 **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR, HL7, GDPR
 - 🌐 **Web & API:** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
-
+##
 ### 🚀 Portfolio Projects
 #### ⚡ Current Projects
 - 📈📊 [Time-Series ML Early Warning System (EWS) for ICU Patient Deterioration (LightGBM & Neural Network)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
@@ -49,7 +50,7 @@
 #### 🔮 Future Projects
 - **Intelligent Clinical Decision Support Tool (CDST):** AI/ML-powered predictive risk stratification  
 - **NLP Clinical Findings Extraction:** Automating insights from unstructured clinical notes  
-
+##
 ### 🔬 Audits & Research
 **Research**
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases
