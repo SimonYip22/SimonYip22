@@ -15,8 +15,8 @@
 - My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ### 🎓 Education
-- **MSc Computer Science with Artificial Intelligence** (City, University of London)
-- **Medicine (MBBS)** (Norwich Medical School)
+- **MSc Computer Science with Artificial Intelligence** [City, University of London](https://www.citystgeorges.ac.uk)
+- **Medicine (MBBS)** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
 
 ### 💡 Interests
 - AI/ML in Medicine, Digital Health, Data Science, Product Management, Health Informatics
