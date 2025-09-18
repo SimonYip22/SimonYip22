@@ -1,8 +1,8 @@
 ## 👤 About Me
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
-![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-blue) 
-![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-red) 
-![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-important) 
+![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-red) 
+![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-blue) 
+![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-orange) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Time%20Series%20&%20Neural%20Networks-ff69b4) 
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
@@ -54,7 +54,7 @@
 ### 🔬 Audits & Research
 #### 📂 Research
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases
-- Giant trichoblastic carcinoma initilly misdiagnosed as basal cell carcinoma
+- Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma
 #### 📋 Audits
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
