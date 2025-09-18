@@ -1,59 +1,60 @@
 # 👋 Hi, I’m Simon - MBBS | MSc Computer Science with Artificial Intelligence
 
-<!-- ### Core Tech -->
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20API-green)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-lightgrey)
-![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+## 💡 Technical Skills
 
-<!-- ### Testing & Deployment -->
-![Pytest](https://img.shields.io/badge/Pytest-Testing-yellow)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue)
-![Render](https://img.shields.io/badge/Deployment-Render-purple)
+### 🖥 Programming & Software Engineering
+![Python](https://skillicons.dev/icons?i=python)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Pytorch](https://skillicons.dev/icons?i=pytorch)
+![Sklearn](https://skillicons.dev/icons?i=sklearn)
+![Lightgbm](https://skillicons.dev/icons?i=lightgbm)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![Numpy](https://skillicons.dev/icons?i=numpy)
+![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
+![Seaborn](https://skillicons.dev/icons?i=seaborn)
+![Fhir](https://skillicons.dev/icons?i=fhir)
+![Gdpr](https://skillicons.dev/icons?i=gdpr)
+![Fastapi](https://skillicons.dev/icons?i=fastapi)
+![Pydantic](https://skillicons.dev/icons?i=pydantic)
+![Uvicorn](https://skillicons.dev/icons?i=uvicorn)
 
-<!-- ### Data & AI -->
-![AI/ML](https://img.shields.io/badge/AI%2FML-TCN%2C%20LightGBM-orange)
-![Data Viz](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%26%20Seaborn-blueviolet)
-![Data Storage](https://img.shields.io/badge/Data-CSV%20%26%20TimeSeries-teal)
-
-<!-- ### Clinical & Digital Health -->
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellowgreen)
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Data%20Driven-green)
-![EHR & FHIR](https://img.shields.io/badge/EHR%20%26%20FHIR-Standards%20Compliant-lightblue)
-![GDPR](https://img.shields.io/badge/GDPR-Privacy%20Compliant-yellow)
-
-<!-- ### Version Control & Tools-->
-![Git](https://img.shields.io/badge/Git-Version%20Control-informational)
-![CLI Tools](https://img.shields.io/badge/CLI-Command%20Line%20Interfaces-ff69b4)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-brightgreen)
 
 ***Clinically-informed, technically rigorous, and designed to deliver digital health solutions that only a clinician could envision*** 
 
-[LinkedIn](https://www.linkedin.com/in/simonyip22/) | [GitHub](https://github.com/SimonYip22)
+[LinkedIn](https://www.linkedin.com/in/simonyip22/) · [GitHub](https://github.com/SimonYip22)
 
 ---
 
 ## 👤 About Me
 
+### 📝 Summary
 ***Bridging medicine & AI to deliver clinically-informed digital health solutions***
 
-I am a **clinically trained medical professional (MBBS)** transitioning into healthcare technology through an **MSc in Computer Science with AI**. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **technically robust and medically interpretable**.
+I am a **clinically trained medical professional (MBBS)** transitioning into healthcare technology with an **MSc in Computer Science with AI**. I specialise in **clinically-informed software development**, combining Python, AI/ML, NLP, and data analytics to build tools that are **technically robust and medically interpretable**.
 
 My goal is to develop, validate, and deploy intelligent healthcare solutions that **improve patient outcomes, streamline clinical workflows, and integrate predictive decision support** into real-world clinical settings. 
 
-My focus areas include **data science, digital health product management, AI/ML in medicine, and health informatics**.
+### 🎓 Education
+- City, University of London (MSc Computer Science with Artificil Intelligence)
+- Norwich Medical School (MBBS - Medicine)
 
+### 💡 Interests
+**Data science, digital health product management, AI/ML in medicine, health informatics**.
 ---
 
-## 💡⚙️ Technical Skills
+## ⚙️ Technical Skills
 
-- 💾 **Programming & Software Engineering:** Python, OOP, SQL/NoSQL, Git/GitHub, Testing, Modular Design, CI/CD  
-- 🤖 **Artificial Intelligence & Machine Learning:** Rule-based AI, Bayesian inference, NLP, TensorFlow, PyTorch, Scikit-learn  
-- 📊 **Data Handling & Visualisation:** Pandas, Matplotlib, Seaborn, ASCII charts, Healthcare analytics  
-- 🏥 **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), FHIR, HL7, GDPR compliance  
-- 🖥 **UX & HCI:** CLI design, user-centered interfaces, portfolio-ready visualisation  
-- ☁️ **Cloud & DevOps:** AWS/Azure basics, distributed systems  
+- 💾 **Programming & Software Engineering:** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
+- 🤖 **Artificial Intelligence & Machine Learning:** LightGBM, PyTorch, Scikit-learn, TCN, NLP, Time-series modelling, Feature engineering, Rule-based AI
+- 📊 **Data Handling & Visualisation:** Pandas, NumPy, Matplotlib, ASCII charts, Healthcare analytics (Tabular EHR/ICU data, longitudinal patient data)
+- 🏥 **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR, HL7, GDPR
+- 🌐 **Web & API:** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
+
+
 
 ---
 
