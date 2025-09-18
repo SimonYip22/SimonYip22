@@ -6,6 +6,7 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-red) 
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
+
 🌐 [LinkedIn](https://www.linkedin.com/in/simonyip22/) · Portfolio website coming soon
 ### 📝 Summary
 - Clinically trained medical professional (MBBS) transitioning into healthcare technology with a Master's degree in Computer Science with AI, focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
