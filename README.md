@@ -45,7 +45,7 @@
 ### 🚀 Portfolio Projects
 #### ⚡ Current Projects
 - 📈📊 [Time-Series ML Early Warning System (EWS) for ICU Patient Deterioration (LightGBM & Neural Network)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
-- 🫀📉 [NEWS2 Vitals Tracker with Alerts, Moitoring & visualisation (CLI & FastAPI)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
+- 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation (CLI & FastAPI)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker (CLI & FastAPI)](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 Future Projects
 - **Intelligent Clinical Decision Support Tool (CDST):** AI/ML-powered predictive risk stratification  
