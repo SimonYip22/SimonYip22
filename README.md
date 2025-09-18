@@ -1,4 +1,8 @@
-# Bridging Medicine & AI 🩻 💻
+[LinkedIn](https://www.linkedin.com/in/simonyip22/)  ·  [GitHub](https://github.com/SimonYip22) · Portfolio coming soon 🌐
+
+---
+
+## 👤 About Me
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-blue) 
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-important) 
@@ -6,13 +10,6 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-red) 
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
-
-[LinkedIn](https://www.linkedin.com/in/simonyip22/)  ·  [GitHub](https://github.com/SimonYip22) · Portfolio coming soon 🌐
-
----
-
-## 👤 About Me
-
 ### 📝 Summary
 - Clinically trained **medical professional (MBBS)** transitioning into healthcare technology with an **MSc in Computer Science with AI**. I specialise in clinically-informed software development, combining Python, AI/ML, NLP, and data analytics to build tools that are technically robust and medically interpretable.
 - My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
