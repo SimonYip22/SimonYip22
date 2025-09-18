@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Simon - MBBS | MSc Computer Science with Artificial Intelligence
-***Bridging medicine & AI to deliver clinically-informed, technically rigorous digital health solutions***
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Git](https://skillicons.dev/icons?i=git)
