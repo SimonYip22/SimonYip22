@@ -21,9 +21,8 @@
 
 ### 💡 Interests
 - AI/ML in Medicine, Digital Health, Data Science, Product Management, Health Informatics
----
 
-## ⚙️ Technical Skills
+### ⚙️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -44,20 +43,16 @@
 - 🏥 **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR, HL7, GDPR
 - 🌐 **Web & API:** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
 
----
-
-## 🚀 Portfolio Projects
-### ⚡ Current Projects
+### 🚀 Portfolio Projects
+#### ⚡ Current Projects
 - 📈📊 [Time-Series ML Early Warning System (EWS) for ICU Patient Deterioration (LightGBM & Neural Network)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 🫀📉 [NEWS2 Vitals Tracker with Alerts, Moitoring & visualisation (CLI & FastAPI)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker (CLI & FastAPI)](https://github.com/SimonYip22/AI-Symptom-Checker)
-### 🔮 Future Projects
+#### 🔮 Future Projects
 - **Intelligent Clinical Decision Support Tool (CDST):** AI/ML-powered predictive risk stratification  
 - **NLP Clinical Findings Extraction:** Automating insights from unstructured clinical notes  
 
----
-
-## 🔬 Audits & Research
+### 🔬 Audits & Research
 **Research**
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases
 - Giant trichoblastic carcinoma initilly misdiagnosed as basal cell carcinoma
