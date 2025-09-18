@@ -1,5 +1,4 @@
 ## 👤 About Me
-### 📝 Summary
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-red) 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-blue) 
@@ -7,6 +6,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Time%20Series%20&%20Neural%20Networks-ff69b4) 
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
+##
+### 📝 Summary
 - Clinically trained medical professional (MBBS) transitioning into healthcare technology with a Master's degree in Computer Science with AI, focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
 - I specialise in clinically-informed software development, combining Python, AI & Machine Learning, NLP, and data analytics to build tools that are technically robust and medically interpretable.
 - My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
