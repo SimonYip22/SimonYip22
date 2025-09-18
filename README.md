@@ -1,21 +1,5 @@
 # 👋 Hi, I’m Simon - MBBS | MSc Computer Science with Artificial Intelligence
 
-![Python](https://skillicons.dev/icons?i=python)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![Pytorch](https://skillicons.dev/icons?i=pytorch)
-![Sklearn](https://skillicons.dev/icons?i=sklearn)
-![Lightgbm](https://skillicons.dev/icons?i=lightgbm)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Numpy](https://skillicons.dev/icons?i=numpy)
-![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
-![Seaborn](https://skillicons.dev/icons?i=seaborn)
-![Fhir](https://skillicons.dev/icons?i=fhir)
-![Gdpr](https://skillicons.dev/icons?i=gdpr)
-![Fastapi](https://skillicons.dev/icons?i=fastapi)
-![Pydantic](https://skillicons.dev/icons?i=pydantic)
-![Uvicorn](https://skillicons.dev/icons?i=uvicorn)
-
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-blueviolet) 
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-important) 
@@ -24,7 +8,7 @@
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 
-[LinkedIn](https://www.linkedin.com/in/simonyip22/)  · Portfolio coming soon 🌐
+[LinkedIn](https://www.linkedin.com/in/simonyip22/)  ·  [GitHub](https://github.com/SimonYip22) · Portfolio coming soon 🌐
 
 ---
 
@@ -43,6 +27,17 @@
 ---
 
 ## ⚙️ Technical Skills
+
+![Python](https://skillicons.dev/icons?i=python)
+![AI](https://skillicons.dev/icons?i=ai)
+![Pytorch](https://skillicons.dev/icons?i=pytorch)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Fastapi](https://skillicons.dev/icons?i=fastapi)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![Notion](https://skillicons.dev/icons?i=notion)
+![Render](https://skillicons.dev/icons?i=heroku)
 
 - 💾 **Programming & Software Engineering:** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
 - 🤖 **AI & ML:** LightGBM, PyTorch, Scikit-learn, TCN, NLP, Time-series modelling, Feature engineering, Rule-based AI
@@ -97,7 +92,7 @@ Supports clinicians in real-time monitoring, reduces risk of missed deterioratio
 ### 🧠🤖 Rule-Based AI Symptom Checker (CLI & FastAPI)
 [GitHub Repo](https://github.com/SimonYip22/AI-Symptom-Checker) | [Live API](https://ai-symptom-checker-5rfb.onrender.com)
 
-A **Python-based, rule-driven AI symptom checker that leverages clinical reasoning to interpret patient-reported symptoms and rank potential conditions. Users can interact via a **command-line interface (CLI)** or a **FastAPI-based JSON API (v2)**, making the tool both scriptable and deployable for web integration.
+A **Python-based, rule-driven AI symptom checker** that leverages clinical reasoning to interpret patient-reported symptoms and rank potential conditions. Users can interact via a **command-line interface (CLI)** or a **FastAPI-based JSON API (v2)**, making the tool both scriptable and deployable for web integration.
 
 Unlike generic AI tools, this project encodes **doctor-level clinical reasoning**, where condition-symptom mappings, input normalisation and formula-weighted scoring reflect real-world clinical prioritisation.
 
