@@ -24,7 +24,7 @@
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 
-[LinkedIn](https://www.linkedin.com/in/simonyip22/)  ·  [GitHub](https://github.com/SimonYip22) · Portfolio coming soon 🌐
+[LinkedIn](https://www.linkedin.com/in/simonyip22/)  · Portfolio coming soon 🌐
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🎖️ Featured Projects
 
 ### 🫀📉 NEWS2 Vitals Tracker with Alerts, Monitoring & visualisation (CLI & FastAPI)
 [GitHub Repo](https://github.com/SimonYip22/Vitals-Tracker-CLI) | [Live API](https://vitals-tracker-cli.onrender.com/docs)
