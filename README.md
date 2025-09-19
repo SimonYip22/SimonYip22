@@ -46,12 +46,12 @@
 ##
 ### 🚀 Portfolio Projects
 #### ⚡️ _Current Projects_
-- 📈⏱️ [Neural Network (TCN) Time-Series ICU Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
-- 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation (CLI & FastAPI)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
-- 🧠🤖 [Rule-Based AI Symptom Checker (CLI & FastAPI)](https://github.com/SimonYip22/AI-Symptom-Checker)
+- 📈⏱️ [Neural Network (TCN) Time-Series ICU Patient Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation (CLI, FastAPI, CI/CD, Matplotlib)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
+- 🧠🤖 [Rule-Based AI Symptom Checker (CLI, FastAPI, CI/CD)](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
-- 🧬📊 **Intelligent Advanced-ML/NLP Clinical Decision Support Tool (CDST)** 
-- 📄🔍 **NLP Unstructured Clinical Findings Extraction Tool**
+- 🧬📊 [Advanced-ML/NLP Intelligent Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
+- 📄🔍 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 ##
 ### 🔬 Audits & Research
 #### 📂 _Research_
