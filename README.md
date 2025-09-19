@@ -20,7 +20,7 @@
 ### 💡 Interests
 - AI/ML in Medicine, Digital Health, Data Science, Product Management, Health Informatics
 ##
-### ⚙️ Technical Skills
+### 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -36,24 +36,24 @@
 </p>
 
 - 💾 **Programming & Software Engineering:** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
-- 🤖 **AI & ML:** LightGBM, PyTorch, Scikit-learn, TCN, NLP, Time-series modelling, Feature engineering, Rule-based AI
+- 🤖 **AI & ML:** PyTorch, Temporal Convolutional Network (TCN), LightGBM, Scikit-learn, NLP, Time-series modeling, Feature engineering, Rule-based AI
 - 📊 **Data Handling & Visualisation:** Pandas, NumPy, Matplotlib, ASCII charts, Healthcare analytics (Tabular EHR/ICU data, longitudinal patient data)
-- 🏥 **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR, HL7, GDPR
+- 🏥 **Clinical Systems & Standards:** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR-HL7, GDPR
 - 🌐 **Web & API:** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
 ##
 ### 🚀 Portfolio Projects
-#### ⚡ _Current Projects_
+#### ⚡️ _Current Projects_
 - 📈📊 [Neural Network (TCN) Time-Series ICU Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation (CLI & FastAPI)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker (CLI & FastAPI)](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
-- **Intelligent Clinical Decision Support Tool (CDST):** AI/ML-powered predictive risk stratification  
-- **NLP Clinical Findings Extraction:** Automating insights from unstructured clinical notes  
+- **Intelligent Advanced-ML/NLP Clinical Decision Support Tool (CDST)** 
+- **NLP Unstructured Clinical Findings Extraction Tool**
 ##
 ### 🔬 Audits & Research
 #### 📂 _Research_
-- Lacertus syndrome and its surgical management using WALANT - our first 12 cases
-- Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma
+- Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
+- Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
 #### 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
