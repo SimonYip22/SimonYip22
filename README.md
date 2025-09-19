@@ -43,7 +43,7 @@
 ##
 ### 🚀 Portfolio Projects
 #### ⚡ _Current Projects_
-- 📈📊 [Neural Network Time-Series ICU Deterioration Predictor (LightGBM & PyTorch [TCN])](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 📈📊 [Neural Network (TCN) Time-Series ICU Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation (CLI & FastAPI)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker (CLI & FastAPI)](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
