@@ -1,14 +1,12 @@
 ## 👤 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow" />
-  <img src="https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-red" />
-  <img src="https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-blue" />
-  <img src="https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-orange" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Time%20Series%20&%20Neural%20Networks-ff69b4" />
-  <img src="https://img.shields.io/badge/Deployment-Render-purple" />
-  <img src="https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success" />
-</p>
+![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
+![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-red) 
+![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-blue) 
+![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-Predictive%20Models-orange) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Time%20Series%20&%20Neural%20Networks-ff69b4) 
+![Render](https://img.shields.io/badge/Deployment-Render-purple)
+![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 
 ##
 ### 📝 Summary
@@ -16,6 +14,7 @@
 - Focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
 - I specialise in clinically-informed software development, combining Python, AI & Advanced Machine Learning, NLP, and data analytics to build tools that are technically robust and medically interpretable.
 - My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
+
 ##
 ### 🎓 Education
 - **_Master's Degree (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
@@ -62,6 +61,7 @@
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
 ##
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonYip22&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonYip22&layout=compact&theme=radical" />
