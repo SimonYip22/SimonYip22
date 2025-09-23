@@ -17,12 +17,12 @@
 
 ##
 ### 🎓 Education
-- **_Master's Degree (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
-- **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
+- 🖥️ **_Master's Degree (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
+- 🩻 **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
 ##
 ### 💡 Interests
-- **_Technical:_** AI & ML in Medicine, Digital Health, Data Science
-- **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
+- 💻 **_Technical:_** AI & ML in Medicine, Digital Health, Data Science
+- 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
 ##
 ### 🛠️ Technical Skills
 
@@ -52,7 +52,7 @@
 - 🧠🤖 [Rule-Based AI Symptom Checker (CLI, FastAPI, CI/CD)](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
 - 🧬📊 [Advanced-ML/NLP Intelligent Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
-- 📄🔍 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
+- 📑🔍 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 ##
 ### 🔬 Audits & Research
 #### 📂 _Research_
