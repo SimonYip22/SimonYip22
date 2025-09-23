@@ -10,9 +10,9 @@
 
 ##
 ### 📝 Summary
-- Clinically trained medical professional (MBBS) transitioning into healthcare technology with a Master's degree in Computer Science with Artificial Intelligence.
+- Clinically trained medical professional (MBBS) transitioning into healthcare technology with a Master's Degree in Computer Science with Artificial Intelligence.
 - Focused on leveraging AI and ML with clinical expertise to optimise digital health innovation through data-driven solutions. 
-- I specialise in clinically-informed software development, combining Python, AI & Advanced Machine Learning, NLP, and data analytics to build tools that are technically robust and medically interpretable.
+- I specialise in clinically-informed software development, combining Python, AI & advanced-ML modelling (deep learning), NLP, and data analytics to build tools that are technically robust and medically interpretable.
 - My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ##
