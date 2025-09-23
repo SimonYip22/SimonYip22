@@ -21,7 +21,8 @@
 - **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
 ##
 ### 💡 Interests
-- AI & ML in Medicine, Digital Health, Data Science, Healthcare Product Management, Clinical Informatics, Healthcare Consulting
+- **_Technical:_** AI & ML in Medicine, Digital Health, Data Science
+- **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
 ##
 ### 🛠️ Technical Skills
 
