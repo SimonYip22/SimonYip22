@@ -17,7 +17,7 @@
 
 ##
 ### 🎓 Education
-- **_Master's Degree (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
+- **_Master of Science (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
 - **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
 ##
 ### 💡 Interests
@@ -48,8 +48,8 @@
 ### 🚀 Portfolio Projects
 #### ⚡️ _Current Projects_
 - 📈⏱️ [Neural Network (TCN) Time-Series ICU Patient Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
-- 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation (CLI/FastAPI, CI/CD, Matplotlib)](https://github.com/SimonYip22/Vitals-Tracker-CLI)
-- 🧠🤖 [Rule-Based AI Symptom Checker (CLI/FastAPI, CI/CD)](https://github.com/SimonYip22/AI-Symptom-Checker)
+- 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
+- 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
 - 🧬📊 [[Capstone] Advanced-ML/NLP Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
 - 📑🔍 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
