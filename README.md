@@ -39,15 +39,15 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 
-- 💾 **_Programming & Software Engineering:_** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
-- 🤖 **_AI & ML:_** PyTorch, Temporal Convolutional Network (TCN), LightGBM, Scikit-learn, NLP, Time-series modeling, Feature engineering, Rule-based AI
+- 🖥️ **_Programming & Software Engineering:_** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
+- 🦾 **_AI & ML:_** PyTorch, Temporal Convolutional Network (TCN), LightGBM, Scikit-learn, NLP, Time-series modeling, Feature engineering, Rule-based AI
 - 📊 **_Data Handling & Visualisation:_** Pandas, NumPy, Matplotlib, ASCII charts, Healthcare analytics (Tabular EHR/ICU data, longitudinal patient data)
 - 🩻 **_Clinical Systems & Standards:_** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR-HL7, GDPR
 - 🌐 **_Web & API:_** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
 ##
 ### 🚀 Portfolio Projects
 #### ⚡️ _Current Projects_
-- 📈⏱️ [Neural Network (TCN) Time-Series ICU Patient Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 📈⏳ [Neural Network (TCN) Time-Series ICU Patient Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
