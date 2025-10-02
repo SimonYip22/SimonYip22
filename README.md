@@ -40,8 +40,8 @@
 </p>
 
 - 🖥️ **_Programming & Software Engineering:_** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
-- 🦾 **_AI & ML:_** PyTorch, Temporal Convolutional Network (TCN), LightGBM, Scikit-learn, NLP, Time-series modeling, Feature engineering, Rule-based AI
-- 📊 **_Data Handling & Visualisation:_** Pandas, NumPy, Matplotlib, ASCII charts, Healthcare analytics (Tabular EHR/ICU data, longitudinal patient data)
+- 🦾 **_AI & ML:_** PyTorch, Temporal Convolutional Network (TCN), LightGBM, Scikit-learn, NLP, Time-series modeling, Feature Engineering, Rule-based AI
+- 📊 **_Data Handling & Visualisation:_** Pandas, NumPy, Matplotlib, ASCII charts, Healthcare Analytics (Tabular EHR/ICU data, longitudinal patient data)
 - 🩻 **_Clinical Systems & Standards:_** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR-HL7, GDPR
 - 🌐 **_Web & API:_** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
 ##
