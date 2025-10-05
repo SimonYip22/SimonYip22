@@ -51,7 +51,7 @@
 - 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
-- 🧬📊 [[Capstone Final] Advanced-ML/NLP Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
+- 🧬📊 [[Capstone Final Project] Advanced-ML/NLP Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
 - 📑🔍 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 ##
 ### 🔬 Audits & Research
