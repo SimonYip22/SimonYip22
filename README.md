@@ -10,14 +10,13 @@
 
 ##
 ### 📝 Summary
-- Clinically trained medical professional (MBBS) transitioning into healthcare technology with a Master's Degree in Computer Science with Artificial Intelligence.
-- Focused on leveraging AI and ML with clinical expertise to optimise digital health innovation through data-driven solutions. 
-- I specialise in clinically-informed software development, combining Python, AI & advanced-ML modelling (deep learning), NLP and data analytics to build end-to-end deployment tools that are technically robust and medically interpretable.
-- My goal is to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
+- Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
+- I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, AI/ML, Deep Learning, NLP, and data science to build tools and models that are technically robust and medically interpretable.
+- My goal is to continue to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ##
 ### 🎓 Education
-- **_Master of Science (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
+- **_Master of Science (MS) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
 - **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
 ##
 ### 💡 Interests
