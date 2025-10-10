@@ -11,7 +11,7 @@
 ##
 ### 📝 Summary
 - Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
-- I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, AI/ML, Deep Learning, NLP, and data science to build tools and models that are technically robust and medically interpretable.
+- I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning, NLP, and data science to build tools and models that are technically robust and medically interpretable.
 - My goal is to continue to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ##
@@ -46,11 +46,11 @@
 ##
 ### 🚀 Portfolio Projects
 #### ⚡️ _Current Projects_
-- 📈⏳ [Neural Network (TCN) Time-Series ICU Patient Deterioration Predictor (LightGBM & PyTorch)](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 📈⏳ [Neural Network (TCN) ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 🫀📉 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
-- 🧬📊 [[Final Project] Advanced-ML/NLP Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
+- 🧬📊 [[Final Project] Deep-Learning/NLP Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
 - 📑🔍 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 ##
 ### 🔬 Audits & Research
