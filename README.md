@@ -1,5 +1,5 @@
 ## 👤 About Me
-
+<!--
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-red) 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%26%20NumPy-blue) 
@@ -7,7 +7,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Time%20Series%20&%20Neural%20Networks-ff69b4) 
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
-
+-->
 ##
 ### 📝 Summary
 - Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
