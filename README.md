@@ -8,7 +8,18 @@
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 -->
-##
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://skillicons.dev/icons?i=heroku" />
+</p>
 ### 📝 Summary
 - Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
 - I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning, NLP, and data science to build tools and models that are technically robust and medically interpretable.
@@ -24,7 +35,7 @@
 - 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
 ##
 ### 🛠️ Technical Skills
-
+<!--
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=ai" />
@@ -37,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=notion" />
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
-
+-->
 - 🖥️ **_Programming & Software Engineering:_** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
 - 🦾 **_AI & ML:_** PyTorch, Temporal Convolutional Network (TCN), LightGBM, Scikit-learn, NLP, Time-series modeling, Feature Engineering, Rule-based AI
 - 📊 **_Data Handling & Visualisation:_** Pandas, NumPy, Matplotlib, ASCII charts, Healthcare Analytics (Tabular EHR/ICU data, longitudinal patient data)
