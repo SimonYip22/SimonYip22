@@ -8,6 +8,11 @@
 ![Render](https://img.shields.io/badge/Deployment-Render-purple)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 -->
+
+### 📝 Summary
+- Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
+- I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning, NLP, and data science to build tools and models that are technically robust and medically interpretable.
+- My goal is to continue to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=ai" />
@@ -20,11 +25,6 @@
   <img src="https://skillicons.dev/icons?i=notion" />
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
-
-### 📝 Summary
-- Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health innovation through data-driven solutions. 
-- I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning, NLP, and data science to build tools and models that are technically robust and medically interpretable.
-- My goal is to continue to develop, validate, and deploy intelligent healthcare solutions that improve patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ##
 ### 🎓 Education
