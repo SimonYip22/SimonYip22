@@ -16,8 +16,8 @@
 
 ##
 ### 🎓 Education
-- **_Master of Science (MS), Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
-- **_Bachelor of Medicine, Bachelor of Surgery (MBBS), Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
+- **_Master of Science (MS): Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
+- **_Bachelor of Medicine, Bachelor of Surgery (MBBS): Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
 
 ##
 ### 🛠️ Technical Skills
