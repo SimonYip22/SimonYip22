@@ -51,7 +51,7 @@
 - 📑🧩 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 ##
 ### 💡 Interests
-- 💻 **_Technical:_** AI & ML in Medicine, Digital Health, Data Science
+- 💻 **_Technical:_** AI & ML in Medicine, Digital Health, Data Science, Health Tech
 - 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
 ##
 ### 🔬 Audits & Research
