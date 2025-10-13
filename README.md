@@ -12,7 +12,7 @@
 ### 📝 Summary
 - Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health and contribute to innovation through data-driven solutions. 
 - I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning, NLP, and data science to build models and tools that are technically robust, fully reproducible and medically interpretable.
-- My goal is to continue to develop, validate, and deploy intelligent healthcare solutions, that improves patient outcomes, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
+- My goal is to continue to develop, validate, and deploy intelligent healthcare solutions, that improve patient outcome and safety, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ##
 ### 🎓 Education
