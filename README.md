@@ -57,7 +57,7 @@
 ### 🔬 Audits & Research
 #### 📂 _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
-- Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report Manuscript)
+- Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
 #### 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
