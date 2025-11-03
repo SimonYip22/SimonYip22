@@ -10,9 +10,9 @@
 -->
 
 ### 📝 Summary
-- Clinician-technologist combining medical training (MBBS) with technical proficiency (MS Computer Science with Artificial Intelligence), focused on leveraging AI/ML and clinical expertise to optimise digital health and contribute to innovation through data-driven solutions. 
-- I specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning, NLP, and data science to build models and tools that are technically robust, fully reproducible and medically interpretable.
-- My goal is to continue to develop, validate, and deploy intelligent healthcare solutions, that improve patient outcome and safety, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
+- Clinician-technologist combining medical training with technical proficiency, focused on leveraging ML and clinical expertise to optimise digital health and contribute to innovation through data-driven solutions. 
+- Specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning & NLP to build technically robust tools; fully reproducible and medically interpretable.
+- My goal is to improve patient outcome and safety, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ##
 ### 🎓 Education
@@ -35,11 +35,11 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 
-- 🖥️ **_Programming & Software Engineering:_** Python, OOP, Git/GitHub, Unit testing, Modular Design, CI/CD  
-- 🦾 **_AI & ML:_** PyTorch, Temporal Convolutional Network (TCN), LightGBM, Scikit-learn, NLP, Time-series modeling, Feature Engineering, Rule-based AI
-- 📊 **_Data Handling & Visualisation:_** Pandas, NumPy, Matplotlib, Healthcare Analytics (Tabular EHR/ICU data, longitudinal patient data)
+- 🦾 **_AI & Machine Learning:_** PyTorch, Scikit-learn, LightGBM, NLP, Time-series modeling, Feature Engineering
+- 🖥️ **_Software Engineering:_** Python, Git/GitHub, CI/CD (GitHub Actions), FastAPI (Pydantic), Render
+- 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib
 - 🩻 **_Clinical Systems & Standards:_** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR-HL7, GDPR
-- 🌐 **_Web & API:_** FastAPI, Render, Pydantic (data validation), Uvicorn (ASGI server)
+  
 ##
 ### 🚀 Portfolio Projects
 #### ⚡️ _Current Projects_
