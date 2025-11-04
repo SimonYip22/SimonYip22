@@ -11,8 +11,7 @@
 
 ### 📝 Summary
 - Clinician-technologist combining medical training with technical proficiency, focused on leveraging ML and clinical expertise to optimise digital health and contribute to innovation through data-driven solutions. 
-- Specialise in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning & NLP to build technically robust tools; fully reproducible and medically interpretable.
-- My goal is to improve patient outcome and safety, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
+- Specialises in healthcare technology pipelines with clinically-informed end-to-end deployments, combining Python, ML, Deep Learning & NLP to build technically robust tools; fully reproducible and medically interpretable; improving patient outcome and safety, streamlining clinical workflows, and integrating predictive decision support into real-world clinical settings. 
 
 ##
 ### 🎓 Education
