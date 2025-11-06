@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 
-- 🦾 **_AI & Machine Learning:_** PyTorch, Scikit-learn, LightGBM, NLP, Time-series modeling, Feature Engineering
+- 🦾 **_AI & Machine Learning:_** PyTorch, Scikit-learn, Deep Learning (TCN), LightGBM, NLP, Time-series modeling, Feature Engineering
 - 🖥️ **_Software Engineering:_** Python, Git/GitHub, CI/CD (GitHub Actions), FastAPI (Pydantic), Render
 - 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib
 - 🩻 **_Clinical Systems & Standards:_** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR-HL7, GDPR
