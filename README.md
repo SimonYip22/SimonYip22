@@ -43,11 +43,11 @@
 ### 🚀 Portfolio Projects
 #### ⚡️ _Current Projects_
 - 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 📑🧩 [NLP Unstructured Free-Text Clinical Notes Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 - 🫀📊 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
 - 🧬⚖️ [[Final Project] Deep-Learning/NLP Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
-- 📑🧩 [NLP Unstructured Free-Text Clinical Findings (EHR) Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 ##
 ### 💡 Interests
 - 💻 **_Technical:_** AI & ML in Medicine, Digital Health, Data Science, Health Tech
