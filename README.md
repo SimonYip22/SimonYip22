@@ -34,10 +34,11 @@
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 
-- 🦾 **_AI & Machine Learning:_** PyTorch, Scikit-learn, Deep Learning (TCN), LightGBM, NLP, Time-series modeling, Feature Engineering
-- 🖥️ **_Software Engineering:_** Python, Git/GitHub, CI/CD (GitHub Actions), FastAPI, Render
-- 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib
-- 🩻 **_Clinical Systems & Standards:_** EHRs (ICE, SystmOne, MediViewer), NEWS2, FHIR-HL7, GDPR
+- 🦾 **_AI & Machine Learning:_** PyTorch, Scikit-learn, Deep Learning (TCN), LightGBM, NLP, Time-Series Modeling, Feature Engineering, SHAP Interpretability
+- 🖥️ **_Software Engineering:_** Python, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions), Render
+- 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib, Feature Engineering, Statistical Analysis
+- 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer), HL7-FHIR, NEWS2, GDPR Compliance
+- 🔬 **_Clinical Research:_** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation, Data Analysis
   
 ##
 ### 🚀 Portfolio Projects
