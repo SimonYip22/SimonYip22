@@ -51,7 +51,7 @@
 - 🥼⚖️ [[Final Capstone Project] Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
 ##
 ### 💡 Interests
-- 💻 **_Technical:_** AI & ML in Medicine, Digital Health, Data Science, Health Tech
+- 💻 **_Technical:_** AI in Medicine, Digital Health, Data Science, Health Tech
 - 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
 ##
 ### 🔬 Audits & Research
