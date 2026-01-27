@@ -12,7 +12,6 @@
 ### 📝 Summary
 - Clinician-technologist combining medical training with technical skills, focused on leveraging machine learning with clinical expertise to create data-driven tools. 
 - Specialising in clinically informed, technically robust pipelines with end-to-end deployment; fully reproducible and medically interpretable. 
-- Aiming to contribute to healthcare innovation to improve patient outcome and safety, streamline clinical workflows, and integrate predictive decision support into real-world clinical settings. 
 
 ##
 ### 🎓 Education
