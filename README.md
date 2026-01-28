@@ -54,7 +54,7 @@
 - 💻 **_Technical:_** AI/ML in Medicine, Digital Health, Data Science, Health Tech
 - 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
 ##
-### 🔬 Audits & Research
+### 🔬 Audits & Research Projects
 #### 📂 _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
