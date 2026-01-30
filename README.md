@@ -10,13 +10,18 @@
 -->
 
 ### 📝 Summary
-- Clinician-technologist combining medical training with technical skills, focused on leveraging machine learning with clinical expertise to create data-driven tools. 
+- Clinician-technologist combining medical training with technical skills, focused on leveraging machine learning with clinical expertise to create data-driven models. 
 - Specialising in clinically informed, technically robust pipelines with end-to-end deployment; fully reproducible and medically interpretable. 
 
 ##
 ### 🎓 Education
 - **_Master of Science (MS) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
 - **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
+
+##
+### 💼 Experience
+- **_Applied Machine Learning Engineer - RadNomics Ltd (Collaboration)_**
+- **_Audit and Research Assistant - Norfolk and Norwich University Hospital (NNUH)_**
 
 ##
 ### 🛠️ Technical Skills
