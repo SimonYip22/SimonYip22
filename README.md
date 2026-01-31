@@ -20,8 +20,8 @@
 
 ##
 ### 💼 Experience
-- **_Applied Machine Learning Engineer, RadNomics Ltd (Collaboration)_**
-- **_Audit and Research Assistant, Norfolk and Norwich University Hospital (NNUH)_**
+- **_Applied Machine Learning Engineer_ - RadNomics Ltd**
+- **_Audit and Research Assistant_ - Norfolk and Norwich University Hospital (NNUH)**
 
 ##
 ### 🛠️ Skills
