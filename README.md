@@ -1,4 +1,4 @@
-## About Me 🥼
+## About Me 👤
 <!--
 ![MBBS](https://img.shields.io/badge/MBBS-Clinical%20Expert-yellow) 
 ![Digital Health](https://img.shields.io/badge/Digital%20Health-Clinical%20Data%20%26%20Analytics-red) 
