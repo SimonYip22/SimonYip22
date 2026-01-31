@@ -69,7 +69,7 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonYip22&theme=radical" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonYip22&layout=compact&theme=radical" />
 </p>
 
