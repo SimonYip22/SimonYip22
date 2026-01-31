@@ -24,7 +24,7 @@
 - **_Audit and Research Assistant - Norfolk and Norwich University Hospital (NNUH)_**
 
 ##
-### 🛠️ Technical Skills
+### 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
