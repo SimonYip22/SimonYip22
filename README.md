@@ -37,7 +37,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=notion" />
   <img src="https://skillicons.dev/icons?i=heroku" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonYip22&layout=compact&theme=radical" />
 </p>
 
 - 🦾 **_AI & Machine Learning:_** PyTorch, Scikit-learn, LightGBM, ClinicalBERT, Time-Series Modelling, SHAP Interpretability
@@ -47,7 +46,7 @@
 - 🔬 **_Clinical Research:_** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
   
 ##
-### 🚀 Portfolio Projects
+### 🚀 Independant Portfolio Projects
 #### ⚡️ _Current Projects_
 - 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 📑🧩 [NLP Unstructured Free-Text Clinical Notes Extractor [currently in progress]](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
