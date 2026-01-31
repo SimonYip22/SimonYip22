@@ -54,10 +54,7 @@
 - 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
 #### 🔮 _Future Projects_
 - 🥼⚖️ [[Masters Final Project] Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
-##
-### 💡 Interests
-- 💻 **_Technical:_** AI/ML in Medicine, Digital Health, Data Science, Health Tech
-- 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
+
 ##
 ### 🔬 Audits & Research Projects
 #### 📂 _Research_
@@ -65,7 +62,10 @@
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
 #### 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
-
+##
+### 💡 Interests
+- 💻 **_Technical:_** AI/ML in Medicine, Digital Health, Data Science, Health Tech
+- 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
 ##
 
 <p align="center">
