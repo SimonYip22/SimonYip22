@@ -37,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=notion" />
   <img src="https://skillicons.dev/icons?i=heroku" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonYip22&layout=compact&theme=radical" />
 </p>
 
 - 🦾 **_AI & Machine Learning:_** PyTorch, Scikit-learn, LightGBM, ClinicalBERT, Time-Series Modelling, SHAP Interpretability
