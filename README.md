@@ -63,10 +63,7 @@
 #### 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 ##
-### 💡 Interests
-- 💻 **_Technical:_** AI/ML in Medicine, Digital Health, Data Science, Health Tech
-- 🥼 **_Clinical:_** Healthcare Product Management, Clinical Informatics, Healthcare Consulting
-##
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonYip22&theme=radical" />
