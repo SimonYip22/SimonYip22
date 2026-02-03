@@ -10,8 +10,8 @@
 -->
 
 ### 📝 Summary
-- Clinician-technologist combining medical training with technical skills, focused on leveraging machine learning with clinical expertise to create data-driven models. 
-- Specialising in clinically informed, technically robust pipelines with end-to-end deployment; fully reproducible and medically interpretable. 
+- Clinician-technologist designing end-to-end machine learning architectures integrating time-series analysis and natural language processing.
+- I specialise in building predictive and generative healthcare models to translate medical datasets into interpretable insights to enhance clinical decision-making.
 
 ##
 ### 🎓 Education
