@@ -9,7 +9,6 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-Clinician%20Technologist-success)
 -->
 
-### 📝 Summary
 - Clinician-technologist designing end-to-end machine learning architectures integrating time-series analysis and natural language processing into clinical pipelines.
 - I specialise in building predictive and generative healthcare models to translate medical datasets into interpretable insights to enhance clinical decision-making.
 
