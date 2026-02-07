@@ -24,6 +24,17 @@
 - **_Audit and Research Assistant_** [Norfolk and Norwich University Hospital (NNUH)](https://www.nnuh.nhs.uk)
 
 ##
+### 🚀 Independant Portfolio Projects
+#### ⚡️ _Current Projects_
+- 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 📑🧩 [NLP Unstructured Clinical Notes Extractor [currently in progress]](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
+- 🫀📊 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
+- 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
+#### 🔮 _Future Projects_
+- 🥼⚖️ Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool)
+
+
+##
 ### 🛠️ Skills
 
 <p align="center">
@@ -44,16 +55,6 @@
 - 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib, Feature Engineering, Statistical Analysis
 - 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer), HL7-FHIR, NEWS2 Scoring, GDPR Compliance
 - 🔬 **_Clinical Research:_** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
-  
-##
-### 🚀 Independant Portfolio Projects
-#### ⚡️ _Current Projects_
-- 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
-- 📑🧩 [NLP Unstructured Clinical Notes Extractor [currently in progress]](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
-- 🫀📊 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
-- 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
-#### 🔮 _Future Projects_
-- 🥼⚖️ [[Masters Project] Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool) 
 
 ## 
 ### Publications
