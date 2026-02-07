@@ -48,7 +48,7 @@
 ##
 ### 🚀 Independant Portfolio Projects
 #### ⚡️ _Current Projects_
-- 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard) **DOI:** [10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
 - 📑🧩 [NLP Unstructured Clinical Notes Extractor [currently in progress]](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 - 🫀📊 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
