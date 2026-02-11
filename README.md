@@ -28,11 +28,10 @@
 #### 🏆 _Main Projects_
 - 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
 - 📑🧩 [NLP Unstructured Clinical Notes Extractor [in progress]](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
+- 🥼⚖️ [Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool)
 #### 🥈 _Mini Projects_
 - 🫀📊 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
 - 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
-#### 🔮 _Future Projects_
-- 🥼⚖️ [Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool)
 
 
 ##
