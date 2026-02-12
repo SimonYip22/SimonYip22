@@ -52,7 +52,7 @@
 
 - 🦾 **_Machine Learning:_** PyTorch, Scikit-learn, LightGBM, ClinicalBERT, Time-Series Modelling, SHAP Interpretability
 - 🖥️ **_Software Engineering:_** Python, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions), Render
-- 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib, Feature Engineering, Statistical Analysis
+- 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib, Jupyter, Feature Engineering, Statistical Analysis
 - 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer), HL7-FHIR, NEWS2 Scoring, GDPR Compliance
 - 🔬 **_Clinical Research:_** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
