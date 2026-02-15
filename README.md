@@ -31,7 +31,7 @@
 - 🥼⚖️ [Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool)
 #### 🥈 _Mini Projects_
 - 🫀📊 [NEWS2 Vitals Tracker with Alerts, Monitoring & Visualisation](https://github.com/SimonYip22/Vitals-Tracker-CLI)
-- 🧠🤖 [Rule-Based AI Symptom Checker](https://github.com/SimonYip22/AI-Symptom-Checker)
+- 🧠🤖 [Rule-Based Clinical Symptom Checker](https://github.com/SimonYip22/Rule-Based-Clinical-Symptom-Checker)
 
 
 ##
