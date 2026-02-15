@@ -26,7 +26,7 @@
 ##
 ### 🚀 Independant Portfolio Projects
 #### 🏆 _Main Projects_
-- 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/EWS-Predictive-Dashboard)
+- 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 - 📑🧩 [NLP Unstructured Clinical Notes Extractor](https://github.com/SimonYip22/NLP-Clinical-Notes-Extractor)
 - 🥼⚖️ [Clinical Decision Support Tool (CDST)](https://github.com/SimonYip22/AI-Clinical-Decision-Support-Tool)
 #### 🥈 _Mini Projects_
