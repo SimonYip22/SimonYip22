@@ -1,7 +1,7 @@
 ## About Me 👤
 
 ### 📝 Summary
-- Clinician-technologist designing machine learning architectures within the healthcare domain integrating time-series analysis and natural language processing into clinical pipelines.
+- Clinician-technologist designing machine learning architectures within the healthcare domain, integrating time-series analysis and natural language processing into clinical pipelines.
 - Focusing on building predictive, generative, and extraction-based models to translate medical datasets into interpretable insights, enhancing clinical decision-making, and streamlining workflows.
 
 ##
