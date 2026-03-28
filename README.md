@@ -43,7 +43,7 @@
 </p>
 
 - 🦾 **_Machine Learning:_** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Deep Learning, NLP, Time-Series Modelling, LLM Fine-Tuning
-- 🖥️ **_Software Engineering:_** Python, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions), Render
+- 🖥️ **_Software Engineering:_** Python, Docker, Kubernetes, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions), Render
 - 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib, Feature Engineering
 - 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2 Scoring, GDPR Compliance
 - 🔬 **_Clinical Research:_** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
