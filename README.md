@@ -1,8 +1,8 @@
 ## About Me 👤
 
 ### 📝 Summary
-- Clinician-technologist designing machine learning architectures within the healthcare domain, integrating time-series analysis and natural language processing into clinical pipelines.
-- Focusing on building predictive, generative, and extraction-based models to translate medical datasets into interpretable insights, enhancing clinical decision-making, and streamlining workflows.
+- Clinician and applied machine learning engineer working across clinical data systems, including time-series modelling and NLP/LLM-based pipelines.
+- Experience spans building end-to-end ML workflows — from preprocessing and structuring heterogeneous medical datasets to training, evaluating, and scaling models in cloud environments (GCP, Kubernetes).
 
 ##
 ### 🎓 Education
