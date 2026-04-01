@@ -30,6 +30,10 @@
 ### 🛠️ Skills
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=ai" />
   <img src="https://skillicons.dev/icons?i=pytorch" />
