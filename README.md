@@ -27,7 +27,7 @@
 
 
 ##
-### 🛠️ Skills
+### 🛠️ Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux" />
