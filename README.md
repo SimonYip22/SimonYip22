@@ -34,9 +34,10 @@
 </p>
 
 - 🦾 **_Machine Learning:_** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Deep Learning, NLP, Time-Series Modelling, LLM Fine-Tuning
-- 🖥️ **_Software Engineering:_** Python, Docker, Kubernetes, Google Cloud Platform, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions), Render
-- 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib, Feature Engineering
-- 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2 Scoring, GDPR Compliance
+- ☁️ **_Cloud & Infrastructure:_** Google Cloud Platform (GCP), Kubernetes, Docker, Distributed ML Workflows
+- 🖥️ **_Software Engineering:_** Python, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions)
+- 📊 **_Data & Processing:_** Pandas, Numpy, Feature Engineering, Data Pipelines
+- 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
 - 🔬 **_Clinical Research:_** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
 ## 
