@@ -33,19 +33,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=ai" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=notion" />
-  <img src="https://skillicons.dev/icons?i=heroku" />
-</p>
-
 - 🦾 **_Machine Learning:_** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Deep Learning, NLP, Time-Series Modelling, LLM Fine-Tuning
 - 🖥️ **_Software Engineering:_** Python, Docker, Kubernetes, Google Cloud Platform, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions), Render
 - 📊 **_Data Analytics:_** Pandas, NumPy, Matplotlib, Feature Engineering
