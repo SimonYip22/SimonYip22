@@ -34,7 +34,7 @@
 </p>
 
 - 🦾 **_Machine Learning:_** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP, Time-Series Modelling, LLM Fine-Tuning
-- ☁️ **_Cloud & Infrastructure:_** Google Cloud Platform (GCP), Kubernetes, Docker, Distributed Training Workflows
+- ☁️ **_Cloud & Infrastructure:_** Google Cloud Platform (GKE/GCP), Kubernetes, Docker, Distributed Training Workflows
 - 🖥️ **_Software Engineering:_** Python, FastAPI, Git/GitHub, Pytest, CI/CD (GitHub Actions)
 - 📊 **_Data & Processing:_** Pandas, Numpy, Data Processing, Feature Engineering, Data Pipelines
 - 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
