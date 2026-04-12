@@ -1,7 +1,7 @@
 ## About Me 👤
 
 ### 📝 Summary
-- Clinician and applied machine learning engineer working with clinical data systems, including time-series modelling and NLP/LLM-based pipelines.
+- Applied machine learning engineer working with clinical data systems, including time-series modelling and NLP/LLM-based pipelines.
 - Experience spans building end-to-end ML workflows — from preprocessing and structuring heterogeneous medical datasets to model training and evaluating, executing within cloud environments (GCP/GKE, Kubernetes).
 
 ##
