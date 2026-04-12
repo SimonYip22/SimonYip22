@@ -2,7 +2,7 @@
 
 ### 📝 Summary
 - Applied machine learning engineer working with clinical data systems, including time-series modelling and NLP/LLM-based pipelines.
-- Experience spans building end-to-end ML pipelines — from preprocessing and structuring heterogeneous medical datasets to model training and evaluation - and executing workflows within cloud environments (GCP/GKE, Kubernetes).
+- Experience spans building and deploying end-to-end ML pipelines——from preprocessing and structuring heterogeneous medical datasets to model training and evaluation——and executing workflows within cloud environments (GCP/GKE, Kubernetes).
 
 ##
 ### 🎓 Education
