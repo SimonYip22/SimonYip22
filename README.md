@@ -28,7 +28,10 @@
 - 🦾 **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP, Time-Series Modelling, LLM Fine-Tuning
 - ☁️ **Cloud & Infrastructure:** Google Cloud Platform (GKE/GCP), Kubernetes, Docker, Distributed Training Workflows
 - 🖥️ **Software Engineering:** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
-- 📊 **Data & Processing:** Pandas, Numpy, Data Processing, Feature Engineering, Data Pipelines
+- 📊 **Data & Processing:** Pandas, Numpy, Feature Engineering
+
+##
+#### 🥼 Healthcare Data
 - 🩻 **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
 - 🔬 **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
@@ -41,6 +44,7 @@
 📂 _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
+
 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 ##
