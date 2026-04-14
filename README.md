@@ -1,4 +1,4 @@
-## About Me 👤
+## Simon Yip 
 
 ### 📝 Summary
 - Applied machine learning engineer working with clinical data systems, including time-series modelling, NLP, and transformer/LLM-based pipelines.
