@@ -2,7 +2,7 @@
 
 - Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP
 - Built and deployed ML pipelines using PyTorch, LightGBM, and Hugging Face Transformers  
-- Experience working on production-oriented workflows (GCP, Kubernetes) at RadNomics  
+- Experience working on production-oriented ML workflows (GCP, Kubernetes) at RadNomics  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
