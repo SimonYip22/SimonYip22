@@ -48,10 +48,10 @@ Clinical NLP system for structured free-text extraction from ICU progress notes 
 ### 🛠️ Technical Stack
 ##
 
-- 🦾 **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP, Time-Series Modelling, LLM Fine-Tuning
+- 🦾 **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers
 - ☁️ **Cloud / Infra:** Google Cloud Platform (GKE/GCP), Kubernetes, Docker
 - 🖥️ **Backend / Tools:** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
-- 📊 **Data:** Pandas, NumPy, Feature Engineering
+- 📊 **Data:** Pandas, NumPy
 
 ##
 ### 🎓 Education
