@@ -1,6 +1,6 @@
 ## Simon Yip 
 
-- I am an applied machine learning engineer building systems within healthcare, involving time-series modelling, NLP, and transformer/LLM-based pipelines.
+- I am an applied machine learning engineer building systems within healthcare involving time-series modelling, NLP, and transformer/LLM-based pipelines.
 - My experience spans building and deploying end-to-end ML pipelines, and industry research and development for RadNomics where I execute ML workflows within cloud environments (GCP/GKE, Kube).
 
 <p align="center">
@@ -25,12 +25,12 @@
 ##
 #### 🛠️ Technical Stack
 
-- 🦾 **_Machine Learning:_** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP, Time-Series Modelling, LLM Fine-Tuning
-- ☁️ **_Cloud & Infrastructure:_** Google Cloud Platform (GKE/GCP), Kubernetes, Docker, Distributed Training Workflows
-- 🖥️ **_Software Engineering:_** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
-- 📊 **_Data & Processing:_** Pandas, Numpy, Data Processing, Feature Engineering, Data Pipelines
-- 🩻 **_Clinical Informatics:_** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
-- 🔬 **_Clinical Research:_** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
+- 🦾 **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP, Time-Series Modelling, LLM Fine-Tuning
+- ☁️ **Cloud & Infrastructure:** Google Cloud Platform (GKE/GCP), Kubernetes, Docker, Distributed Training Workflows
+- 🖥️ **Software Engineering:** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
+- 📊 **Data & Processing:** Pandas, Numpy, Data Processing, Feature Engineering, Data Pipelines
+- 🩻 **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
+- 🔬 **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
 ## 
 ### 📑 Publications
