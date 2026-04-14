@@ -49,7 +49,7 @@ Clinical NLP system for structured free-text extraction from ICU progress notes 
 ##
 
 - 🦾 **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers
-- ☁️ **Cloud / Infra:** Google Cloud Platform (GKE/GCP), Kubernetes, Docker
+- ☁️ **Cloud / Infra:** Google Cloud Platform (GKE/GCP), Kubernetes, Docker, Render
 - 🖥️ **Backend / Tools:** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
 - 📊 **Data:** Pandas, NumPy
 
