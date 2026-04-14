@@ -1,4 +1,4 @@
-## Simon Yip 
+# Simon Yip 葉詠倫
 
 - I am an applied machine learning engineer building systems within healthcare involving time-series modelling, NLP, and transformer/LLM-based pipelines.
 - My experience spans building and deploying end-to-end ML pipelines, and industry research and development for RadNomics where I execute ML workflows within cloud environments (GCP/GKE, Kube).
