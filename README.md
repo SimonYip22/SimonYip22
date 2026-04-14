@@ -22,7 +22,7 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 
 👉 [View Project](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 
-<img src="tcn_architecture_detailed.png" width="800"/>
+<img src="tcn_architecture_detailed.png" width="600"/>
 
 ##
 #### 📑🧩 Hybrid Clinical Notes Extraction Pipeline (In Progress)
