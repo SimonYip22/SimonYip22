@@ -1,7 +1,8 @@
 # Simon Yip 葉詠倫
 
-- I am an applied machine learning engineer building systems within healthcare involving time-series modelling, NLP, and transformer/LLM-based pipelines
-- My experience spans building and deploying end-to-end ML pipelines, and industry research and development for RadNomics where I execute ML workflows within cloud environments (GCP/GKE, Kube)
+Applied Machine Learning Engineer building end-to-end clinical AI systems across time-series modelling, NLP, and transformer-based pipelines.
+
+Experience includes deployed ML systems and cloud-based workflows (GCP, Kubernetes) for healthcare applications.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
@@ -9,13 +10,30 @@
 
 ##
 #### 🚀 Machine Learning Portfolio
-- 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
-- 📑🧩 [Hybrid Clinical Notes Extraction Pipeline [IN PROGRESS]](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
+
+📉⏳ Time-Series ICU Patient Deterioration Predictor
+
+Dual-architecture ML system for early clinical risk prediction using time-series ICU data (MIMIC-IV Demo)
+
+- LightGBM (tabular) + Temporal CNN (TCN) for complementary modelling  
+- End-to-end pipeline: preprocessing → feature engineering → training → evaluation → inference  
+- SHAP + saliency interpretability for clinical insight  
+
+👉 [View Project](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
+
+📑🧩 Hybrid Clinical Notes Extraction Pipeline [IN PROGRESS]
+
+Hybrid NLP system for structured free-text extraction from ICU clinical notes (MIMIC-IV)
+
+- Rule-based entity extraction + transformer-based BioClinicalBERT validation
+- Planned end-to-end pipeline: preprocessing → entity extraction → transformer training → evaluation → deployment
+
+👉 [View Project](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
 ##
 #### 💼 Experience
-- Applied Machine Learning Engineer @ [RadNomics Ltd](https://www.radnomics.co.uk)
-- Audit and Research Assistant @ [Norfolk and Norwich University Hospital (NNUH)](https://www.nnuh.nhs.uk)
+- Applied Machine Learning Engineer — [RadNomics Ltd](https://www.radnomics.co.uk) (cloud ML workflows, GCP/GKE, Kubernetes)
+- Audit and Research Assistant — [Norfolk and Norwich University Hospital](https://www.nnuh.nhs.uk)
 
 ##
 #### 🎓 Education
