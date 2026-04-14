@@ -68,14 +68,14 @@ Clinical NLP system for structured free-text extraction from ICU progress notes 
 
 **Audit & Research Assistant — Norfolk and Norwich University Hospital**
 
-📂 _Research_
+#### 📂 _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
 
-📋 _Audits_
+#### 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
-🥼 _Healthcare Data Skills_
+#### 🥼 _Healthcare Data Skills_
 - 🩻 **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
 - 🔬 **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
