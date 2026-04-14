@@ -33,15 +33,15 @@
 - 🔬 **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
 ## 
-### 📑 Publications
+#### 📑 Publications
 - Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
 
 ##
-### 🔬 Clinical Work
-#### 📂 _Research_
+#### 🔬 Clinical Work
+📂 _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
-#### 📋 _Audits_
+📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 ##
 
