@@ -1,30 +1,29 @@
 ## Simon Yip 
 
-### 📝 Summary
-- Applied machine learning engineer working with clinical data systems, including time-series modelling, NLP, and transformer/LLM-based pipelines.
-- Experience spans building and deploying end-to-end ML pipelines—from preprocessing and structuring heterogeneous medical datasets to model training and evaluation—and executing workflows within cloud environments (GCP/GKE, Kubernetes).
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
+</p>
+
+- I am an applied machine learning engineer building systems within healthcare, involving time-series modelling, NLP, and transformer/LLM-based pipelines.
+- My experience spans building and deploying end-to-end ML pipelines, and industry research and development for RadNomics where I execute ML workflows within cloud environments (GCP/GKE, Kube).
 
 ##
-### 🎓 Education
-- **_Master of Science (MSc) - Computer Science with Artificial Intelligence_** [City St George's, University of London](https://www.citystgeorges.ac.uk)
-- **_Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine_** [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
-
-##
-### 💼 Experience
-- **_Applied Machine Learning Engineer_** @ [RadNomics Ltd](https://www.radnomics.co.uk)
-- **_Audit and Research Assistant_** @ [Norfolk and Norwich University Hospital (NNUH)](https://www.nnuh.nhs.uk)
-
-##
-### 🚀 Independent Portfolio ML Projects
+#### 🚀 Machine Learning Portfolio
 - 📉⏳ [Time-Series ICU Patient Deterioration Predictor](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 - 📑🧩 [Hybrid Clinical Notes Extraction Pipeline [IN PROGRESS]](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
 ##
-### 🛠️ Technical Stack
+#### 💼 Experience
+- Applied Machine Learning Engineer @ [RadNomics Ltd](https://www.radnomics.co.uk)
+- Audit and Research Assistant @ [Norfolk and Norwich University Hospital (NNUH)](https://www.nnuh.nhs.uk)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
-</p>
+##
+#### 🎓 Education
+- Master of Science (MSc) - Computer Science with Artificial Intelligence @ [City St George's, University of London](https://www.citystgeorges.ac.uk)
+- Bachelor of Medicine, Bachelor of Surgery (MBBS) - Medicine @ [Norwich Medical School](https://www.uea.ac.uk/about/norwich-medical-school)
+
+##
+#### 🛠️ Technical Stack
 
 - 🦾 **_Machine Learning:_** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP, Time-Series Modelling, LLM Fine-Tuning
 - ☁️ **_Cloud & Infrastructure:_** Google Cloud Platform (GKE/GCP), Kubernetes, Docker, Distributed Training Workflows
@@ -45,7 +44,6 @@
 #### 📋 _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 ##
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonYip22&theme=radical" />
