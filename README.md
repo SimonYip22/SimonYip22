@@ -22,7 +22,7 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 
 👉 [View Project](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 
-
+##
 #### 📑🧩 Hybrid Clinical Notes Extraction Pipeline (In Progress)
 
 Hybrid NLP system for structured free-text extraction from ICU clinical notes (MIMIC-IV)
