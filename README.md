@@ -2,7 +2,7 @@
 
 - Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP
 - Built and deployed ML pipelines using PyTorch, LightGBM, and Hugging Face Transformers  
-- Experience working on production-oriented ML workflows (GCP, Kubernetes) at RadNomics  
+- Experience with production-oriented workflows (GCP, Kubernetes) at RadNomics  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
@@ -15,9 +15,9 @@
 #### ⏳📉 Time-Series ICU Patient Deterioration Predictor  
 Dual-architecture ML system for early clinical risk prediction using ICU time-series data (MIMIC-IV Demo)
 
-- LightGBM (tabular) + Temporal CNN (TCN) for complementary modelling  
+- LightGBM (tabular) + Temporal CNN (TCN)
 - End-to-end pipeline: preprocessing → feature engineering → training → evaluation → inference  
-- SHAP + saliency interpretability for clinical insight 
+- SHAP + saliency interpretability
 
 👉 [View Project](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 
@@ -31,7 +31,7 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 Clinical NLP system for structured free-text extraction from ICU progress notes (MIMIC-IV)
 
 - Rule-based entity extraction + transformer-based BioClinicalBERT validation
-- End-to-end pipeline: preprocessing → entity extraction → transformer training → evaluation → deployment
+- End-to-end pipeline including model training and planned deployment
 
 👉 [View Project](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
@@ -41,7 +41,7 @@ Clinical NLP system for structured free-text extraction from ICU progress notes 
 
 **Applied Machine Learning Engineer — RadNomics Ltd**  
 - Cloud-based ML workflows (GCP, GKE, Kubernetes)  
-- LLM fine-tuning and data pipeline development in medical imaging / reporting systems  
+- LLM fine-tuning and data pipeline development for medical imaging / reporting systems  
 
 ##
 ### 🛠️ Technical Stack
