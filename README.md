@@ -28,10 +28,10 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 ##
 #### 📑🧩 Hybrid Clinical Notes Extraction Pipeline (In Progress)
 
-Clinical NLP system for structured free-text extraction from ICU progress notes (MIMIC-IV)
+Clinical NLP system for structured free-text extraction from ICU progress reports (MIMIC-IV)
 
 - Rule-based entity extraction + transformer-based BioClinicalBERT validation
-- End-to-end pipeline including model training and planned deployment
+- End-to-end pipeline including model training and planned deployment (FastAPI, CI/CD)
 
 👉 [View Project](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
