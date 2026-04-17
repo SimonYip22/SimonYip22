@@ -20,6 +20,7 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 - SHAP + saliency interpretability
 
 👉 [View Project Repo](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
+
 👉 Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
 
 <p align="center">
