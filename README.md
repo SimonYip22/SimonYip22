@@ -19,7 +19,8 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 - End-to-end pipeline: preprocessing → feature engineering → training → evaluation → inference  
 - SHAP + saliency interpretability
 
-👉 [View Project](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
+👉 [View Project Repo](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
+👉 Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
 
 <p align="center">
   <img src="tcn_architecture_detailed.png" width="600"/>
@@ -33,7 +34,7 @@ Clinical NLP system for structured free-text extraction from ICU progress report
 - Rule-based entity extraction + transformer-based BioClinicalBERT validation
 - End-to-end pipeline including model training and planned deployment (FastAPI, CI/CD)
 
-👉 [View Project](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
+👉 [View Project Repo](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
 ##
 ### 💼 Experience
