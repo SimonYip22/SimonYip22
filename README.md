@@ -2,7 +2,7 @@
 
 - Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP
 - Built and deployed ML pipelines using PyTorch, LightGBM, and Hugging Face Transformers  
-- Experience with production-oriented workflows (GCP, Kubernetes) at RadNomics  
+- Experience with production-oriented workflows (GKE, Kubernetes) at RadNomics  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
@@ -42,7 +42,7 @@ Clinical NLP system for structured free-text extraction from ICU progress report
 ##
 
 **Applied Machine Learning Engineer — RadNomics Ltd**  
-- Cloud-based distributed ML workflows on GCP (GKE + Kubernetes) for large-scale clinical NLP pipeline
+- Operated ML workflows in Kubernetes-based cloud infrastructure (GKE), for large-scale clinical NLP pipeline
 - Medical data cleaning, preprocessing, and feature engineering for downstream LLM building
 
 ##
