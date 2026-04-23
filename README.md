@@ -42,8 +42,8 @@ Clinical NLP system for structured free-text extraction from ICU progress report
 ##
 
 **Applied Machine Learning Engineer — RadNomics Ltd**  
-- Cloud-based ML workflows (GCP, GKE, Kubernetes)  
-- LLM fine-tuning and data pipeline development for medical imaging / reporting systems  
+- Cloud-based distributed ML workflows on GCP (GKE + Kubernetes) for large-scale clinical NLP pipeline
+- Medical data cleaning, preprocessing, and feature engineering for downstream LLM building
 
 ##
 ### 🛠️ Technical Stack
