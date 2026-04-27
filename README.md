@@ -12,7 +12,7 @@
 ### 🚀 Machine Learning Projects
 ##
 
-#### ⏳📉 Time-Series ICU Patient Deterioration Predictor  
+#### Time-Series ICU Patient Deterioration Predictor  
 Dual-architecture ML system for early clinical risk prediction using ICU time-series data (MIMIC-IV Demo)
 
 - LightGBM (tabular) + Temporal CNN (TCN)
@@ -28,7 +28,7 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 </p>
 
 ##
-#### 📑🧩 Hybrid Clinical Notes Extraction Pipeline (In Progress)
+#### Hybrid Clinical Notes Extraction Pipeline (In Progress)
 
 Clinical NLP system for structured free-text extraction from ICU progress reports (MIMIC-IV)
 
