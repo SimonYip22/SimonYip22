@@ -10,19 +10,19 @@ Experience with production-oriented cloud ML workflows (GKE, Kubernetes) at RadN
 </p>
 
 ##
-### 🚀 Machine Learning Projects
+### Machine Learning Projects
 ##
 
 #### Time-Series ICU Patient Deterioration Predictor  
-Dual-architecture ML system for early clinical risk prediction using ICU time-series data (MIMIC-IV Demo)
+Dual-architecture ML system for early clinical risk prediction using ICU time-series data
 
 - LightGBM (tabular) + Temporal CNN (TCN)
 - End-to-end pipeline: preprocessing → feature engineering → training → evaluation → inference  
 - SHAP + saliency interpretability
 
-👉 [View Project Repo](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
+[View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 
-👉 Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
+Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
 
 <p align="center">
   <img src="tcn_architecture_detailed.png" width="600"/>
@@ -31,12 +31,12 @@ Dual-architecture ML system for early clinical risk prediction using ICU time-se
 ##
 #### Hybrid Clinical Notes Extraction Pipeline (In Progress)
 
-Clinical NLP system for structured free-text extraction from ICU progress reports (MIMIC-IV)
+Clinical NLP system for structured free-text extraction from ICU progress reports
 
 - Rule-based entity extraction + transformer-based BioClinicalBERT validation
 - Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cloud Run (FastAPI + Docker + CI/CD)
 
-👉 [View Project Repo](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
+[View Repository](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
 ##
 ### 💼 Experience
