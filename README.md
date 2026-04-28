@@ -1,8 +1,8 @@
 # Simon Yip 葉詠倫
 
-- Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP
-- Built and deployed ML pipelines using PyTorch, LightGBM, and Hugging Face Transformers  
-- Experience with production-oriented workflows (GKE, Kubernetes) at RadNomics  
+Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP
+Built and deployed ML pipelines using PyTorch, LightGBM, and Hugging Face Transformers  
+Experience with production-oriented workflows (GKE, Kubernetes) at RadNomics  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
