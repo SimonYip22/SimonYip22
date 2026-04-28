@@ -79,7 +79,7 @@ Clinical NLP system for structured free-text extraction from ICU progress report
 #### _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
-#### 🥼 _Healthcare Data Skills_
+#### _Healthcare Data Skills_
 - 🩻 **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
 - 🔬 **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
