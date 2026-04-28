@@ -39,7 +39,7 @@ Clinical NLP system for structured free-text extraction from ICU progress report
 [View Repository](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
 ##
-### 💼 Experience
+### Experience
 ##
 
 **Applied Machine Learning Engineer — RadNomics Ltd**  
@@ -47,7 +47,7 @@ Clinical NLP system for structured free-text extraction from ICU progress report
 - Medical data cleaning, preprocessing, and feature engineering for downstream LLM building
 
 ##
-### 🛠️ Technical Stack
+### Technical Stack
 ##
 
 - 🦾 **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers
@@ -56,27 +56,27 @@ Clinical NLP system for structured free-text extraction from ICU progress report
 - 📊 **Data:** Pandas, NumPy
 
 ##
-### 🎓 Education
+### Education
 ##
 - MSc Computer Science with Artificial Intelligence — City St George’s, University of London  
 - MBBS Medicine — Norwich Medical School 
 
 ## 
-### 📑 Publications
+### Publications
 ##
 - Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
 
 ##
-### 🔬 Clinical Work
+### Clinical Work
 ##
 
 **Audit & Research Assistant — Norfolk and Norwich University Hospital**
 
-#### 📂 _Research_
+#### _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
 
-#### 📋 _Audits_
+#### _Audits_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
 
 #### 🥼 _Healthcare Data Skills_
