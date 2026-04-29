@@ -14,11 +14,11 @@ Experience with production-oriented cloud ML workflows (GKE, Kubernetes) at RadN
 ##
 
 #### Time-Series ICU Patient Deterioration Predictor  
-Dual-architecture ML system for early clinical risk prediction using ICU time-series data
+Dual-architecture ML system for early clinical risk prediction using ICU time-series data.
 
-- LightGBM (tabular) + Temporal CNN (TCN)
-- End-to-end pipeline: preprocessing → feature engineering → training → evaluation → inference  
-- SHAP + saliency interpretability
+LightGBM + Temporal CNN (TCN) models in an end-to-end pipeline: preprocessing → feature engineering → training → evaluation → inference  
+
+Includes SHAP + saliency interpretability
 
 [View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 
