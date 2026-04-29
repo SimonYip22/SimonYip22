@@ -43,9 +43,9 @@ Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cl
 ### Experience
 ##
 
-**Applied Machine Learning Engineer — RadNomics Ltd**  
-- Operated ML workflows in Kubernetes-based cloud infrastructure (GKE), for large-scale clinical NLP pipeline
-- Medical data cleaning, preprocessing, and feature engineering for downstream LLM building
+**Applied Machine Learning Engineer @ RadNomics Ltd**  
+- Operated production ML workflows in Kubernetes-based cloud infrastructure (GKE), for large-scale clinical NLP pipeline
+- Medical data cleaning, preprocessing, and feature engineering for downstream LLM modelling
 
 ##
 ### Technical Stack
@@ -59,8 +59,8 @@ Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cl
 ##
 ### Education
 ##
-- MSc Computer Science with Artificial Intelligence — City St George’s, University of London  
-- MBBS Medicine — Norwich Medical School 
+- MSc Computer Science with Artificial Intelligence @ City St George’s, University of London  
+- MBBS Medicine @ Norwich Medical School 
 
 ## 
 ### Publications
@@ -71,7 +71,7 @@ Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cl
 ### Clinical Work
 ##
 
-**Audit & Research Assistant — Norfolk and Norwich University Hospital**
+**Audit & Research Assistant @ Norfolk and Norwich University Hospital**
 
 #### _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
