@@ -31,10 +31,11 @@ Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo.
 ##
 #### Hybrid Clinical Notes Extraction Pipeline (In Progress)
 
-Clinical NLP system for structured free-text extraction from ICU progress reports
+Clinical NLP system for precision-focused, structured free-text extraction from ICU progress reports
 
-- Rule-based entity extraction + transformer-based BioClinicalBERT validation
-- Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cloud Run (FastAPI + Docker + CI/CD)
+Hybrid system combining rule-based entity extraction + transformer-based BioClinicalBERT validation
+
+Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cloud Run (FastAPI + Docker + CI/CD)
 
 [View Repository](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
 
