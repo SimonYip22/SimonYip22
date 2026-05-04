@@ -12,7 +12,7 @@ Applied Machine Learning Engineer building end-to-end clinical ML systems across
 
 #### Time-Series ICU Patient Deterioration Predictor  
 
-Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy
+_Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
 - Dual-architecture ICU early warning system combining Temporal CNN (TCN) and LightGBM to predict NEWS2-derived deterioration outcomes across 3 clinical risk dimensions
 
@@ -35,7 +35,7 @@ https://doi.org/10.5281/zenodo.18487174
 ##
 #### Clinical Entity Extraction-Validation System
 
-Python | PyTorch | Hugging Face Transformers | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions
+_Python | PyTorch | Hugging Face Transformers | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
 - Cloud-deployed hybrid clinical NLP system combining rule-based extraction and transformer validation to generate structured entity outputs from ICU progress notes for downstream analysis and ML workflows
 
