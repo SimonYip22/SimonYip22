@@ -66,7 +66,8 @@ Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cl
 ## 
 ### Publications
 ##
-- Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
+- Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18487174
+- Yip, S. (2026). Hybrid Clinical Notes Extraction Pipeline (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20018309
 
 ##
 ### Clinical Work
