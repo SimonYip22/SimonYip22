@@ -23,7 +23,7 @@ Includes SHAP + saliency interpretability
 
 [View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 
-[https://doi.org/10.5281/zenodo.18487174](https://doi.org/10.5281/zenodo.18487174)
+https://doi.org/10.5281/zenodo.18487174
 
 <p align="center">
   <img src="tcn_architecture_detailed.png" width="600"/>
@@ -39,6 +39,8 @@ Hybrid system combining rule-based regex entity extraction + transformer-based B
 Deployed end-to-end inference pipeline as stateless, containerised API on GCP Cloud Run (CI/CD)
 
 [View Repository](https://github.com/SimonYip22/Hybrid-Clinical-Notes-Extraction-Pipeline)
+
+https://doi.org/10.5281/zenodo.20018309
 
 ##
 ### Experience
