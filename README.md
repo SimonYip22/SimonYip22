@@ -6,7 +6,7 @@ Applied Machine Learning Engineer building end-to-end clinical ML systems across
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
 </p>
 
-### Featured Projects
+## Featured Projects
 
 #### Time-Series ICU Patient Deterioration Predictor  
 
@@ -54,7 +54,7 @@ https://doi.org/10.5281/zenodo.20018309
 </p>
 
 
-### Experience
+## Experience
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
@@ -62,7 +62,7 @@ https://doi.org/10.5281/zenodo.20018309
 - Supported large-scale clinical NLP pipeline development involving medical data cleaning, preprocessing, and feature engineering
 
 
-### Technical Stack
+## Technical Stack
 
 
 - **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLTK
@@ -71,19 +71,19 @@ https://doi.org/10.5281/zenodo.20018309
 - **Data:** Pandas, NumPy, SQL
 
 
-### Education
+## Education
 
 - MSc Computer Science with Artificial Intelligence @ City St George’s, University of London  
 - MBBS Medicine @ Norwich Medical School 
 
 
-### Archives
+## Archives
 
 - Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18487174
 - Yip, S. (2026). Hybrid Clinical Notes Extraction Pipeline (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20018309
 
 
-### Clinical Background
+## Clinical Background
 
 
 **Audit & Research Assistant @ Norfolk and Norwich University Hospital**
