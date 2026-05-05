@@ -68,10 +68,10 @@ https://doi.org/10.5281/zenodo.20018309
 ### Technical Stack
 ##
 
-- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLTK
 - **Cloud / Infra:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker
 - **Software Engineering:** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
-- **Data:** Pandas, NumPy
+- **Data:** Pandas, NumPy, SQL
 
 ##
 ### Education
