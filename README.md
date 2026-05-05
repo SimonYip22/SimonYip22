@@ -8,6 +8,31 @@ Applied Machine Learning Engineer building end-to-end clinical ML systems across
 
 ## Featured Projects
 
+#### Clinical Entity Extraction-Validation System
+
+_Python | PyTorch | Hugging Face Transformers | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
+
+- Cloud-deployed hybrid clinical NLP system combining rule-based extraction and transformer validation to generate structured entity outputs from ICU progress notes for downstream analysis and ML workflows
+
+- Implemented regex-based extraction schemas for recall-focused extraction of 3 clinical entity types; fine-tuned BioClinicalBERT classifier on 1000+ manually annotated entities for precision-oriented validation layer
+
+- Extracted 780,000+ structured entities from filtered adult ICU corpus of 160,000+ notes (30,000+ stays)
+
+- Transformer validation achieved +45.9% in precision and −83.3% in false positives relative to rule-only baseline
+
+- Deployed inference pipeline as stateless, containerised API on Google Cloud Run; versioned via GitHub Actions
+
+[Access Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs)
+
+[View Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System)
+
+https://doi.org/10.5281/zenodo.20018309
+
+<p align="center">
+  <img src="system_architecture.png" width="600"/>
+</p>
+
+
 #### Time-Series ICU Patient Deterioration Predictor  
 
 _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
@@ -28,29 +53,6 @@ https://doi.org/10.5281/zenodo.18487174
 
 <p align="center">
   <img src="tcn_architecture_detailed.png" width="600"/>
-</p>
-
-
-#### Clinical Entity Extraction-Validation System
-
-_Python | PyTorch | Hugging Face Transformers | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
-
-- Cloud-deployed hybrid clinical NLP system combining rule-based extraction and transformer validation to generate structured entity outputs from ICU progress notes for downstream analysis and ML workflows
-
-- Implemented regex-based extraction schemas for recall-focused extraction of 3 clinical entity types; fine-tuned BioClinicalBERT classifier on 1000+ manually annotated entities for precision-oriented validation layer
-
-- Extracted 780,000+ structured entities from filtered adult ICU corpus of 160,000+ notes (30,000+ stays)
-
-- Transformer validation achieved +45.9% in precision and −83.3% in false positives relative to rule-only baseline
-
-- Deployed inference pipeline as stateless, containerised API on Google Cloud Run; versioned via GitHub Actions
-
-[View Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System)
-
-https://doi.org/10.5281/zenodo.20018309
-
-<p align="center">
-  <img src="system_architecture.png" width="600"/>
 </p>
 
 
