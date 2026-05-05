@@ -10,7 +10,7 @@ MBBS and Applied Machine Learning Engineer building end-to-end clinical ML syste
 
 #### Clinical Entity Extraction-Validation System
 
-_Python | PyTorch | Hugging Face Transformers | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
+_Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
 - Cloud-deployed hybrid clinical NLP system combining rule-based extraction and transformer validation to generate structured entity outputs from ICU progress notes for downstream analysis and ML workflows
 
@@ -75,8 +75,8 @@ https://doi.org/10.5281/zenodo.18487174
 
 ## Education
 
-- MSc Computer Science with Artificial Intelligence @ City St George’s, University of London  
-- MBBS Medicine @ Norwich Medical School 
+- _MSc, Computer Science with Artificial Intelligence @ City St George’s, University of London_  
+- _MBBS, Medicine @ Norwich Medical School_
 
 
 ## Archives
