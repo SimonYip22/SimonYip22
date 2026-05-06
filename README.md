@@ -3,7 +3,10 @@
 MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP. Experience with cloud ML workflows (GKE) at RadNomics  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,gcp,linux,bash" />
 </p>
 
 ## Featured Projects
@@ -34,13 +37,9 @@ https://doi.org/10.5281/zenodo.20018309
 _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
 - Dual-architecture ICU early warning system combining Temporal CNN (TCN) and LightGBM to predict NEWS2-derived deterioration outcomes across 3 clinical risk dimensions
-
 - Clincally validated data preprocessing included CO2 retainer logic, GCS mapping, and supplemental O2 protocols
-
 - Engineered **171 timestamp-level features (8 vital parameters; 96-hour windows)** and **40 aggregated patient-level features** from **70,000+ time-series observations across 140 ICU stays**
-
 - TCN achieved **+9.3% AUC improvement** for acute-event detection; LightGBM achieved **−68% Brier score and −48% RMSE** for prolonged risk exposure
-
 - Implemented **SHAP and saliency mapping** for clinican-interpretable feature insights
 
 [View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
@@ -57,7 +56,7 @@ https://doi.org/10.5281/zenodo.18487174
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
 - Contributed to R&D workflows for clinical NLP / LLM-based radiology report generation system within **GCP/GKE cloud infrastructure**
--** Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
+- ** Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
 - Implemented report augmentation pipeline, generating **17M+ report pairs** for downstream LLM modelling and evaluation workflows
 - Used containerised remote development environments, Kubernetes pods, and Git-based collaboration under senior engineering supervision
 
