@@ -1,6 +1,6 @@
 # Simon Yip 葉詠倫
 
-MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP. Experience with production-oriented cloud ML workflows (GKE, Kubernetes) at RadNomics  
+MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP. Experience with cloud ML workflows (GKE) at RadNomics  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi,vscode,docker,kubernetes,gcp,linux,bash" />
@@ -13,14 +13,10 @@ MBBS and Applied Machine Learning Engineer building end-to-end clinical ML syste
 _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
 - Cloud-deployed hybrid clinical NLP system combining rule-based extraction and transformer validation to generate structured entity outputs from ICU progress notes for downstream analysis and ML workflows
-
-- Implemented regex-based extraction schemas for recall-focused extraction of 3 clinical entity types; fine-tuned BioClinicalBERT classifier on 1000+ manually annotated entities for precision-oriented validation layer
-
-- Extracted 780,000+ structured entities from filtered adult ICU corpus of 160,000+ notes (30,000+ stays)
-
-- Transformer validation achieved +45.9% in precision and −83.3% in false positives relative to rule-only baseline
-
-- Deployed inference pipeline as stateless, containerised API on Google Cloud Run; versioned via GitHub Actions
+- Implemented regex-based extraction schemas for recall-focused extraction of 3 clinical entity types; fine-tuned BioClinicalBERT classifier on **1000+ manually annotated entities** for precision-oriented validation layer
+- Extracted **780,000+** structured entities from filtered adult ICU corpus of **160,000+ notes (30,000+ stays)**
+- Transformer validation achieved **+45.9% in precision** and **−83.3% in false positives** relative to rule-only baseline
+- Deployed inference pipeline as stateless, containerised API on **Google Cloud Run**; versioned via **GitHub Actions**
 
 [Access Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs)
 
@@ -41,11 +37,11 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
 - Clincally validated data preprocessing included CO2 retainer logic, GCS mapping, and supplemental O2 protocols
 
-- Engineered 171 timestamp-level features (8 vital parameters; 96-hour windows) and 40 aggregated patient-level features from 70,000+ time-series observations across 140 ICU stays
+- Engineered **171 timestamp-level features (8 vital parameters; 96-hour windows)** and **40 aggregated patient-level features** from **70,000+ time-series observations across 140 ICU stays**
 
-- TCN achieved +9.3% AUC improvement for acute-event detection; LightGBM achieved −68% Brier score and −48% RMSE for prolonged risk exposure
+- TCN achieved **+9.3% AUC improvement** for acute-event detection; LightGBM achieved **−68% Brier score and −48% RMSE** for prolonged risk exposure
 
-- Implemented SHAP and saliency mapping for clinican-interpretable feature insights
+- Implemented **SHAP and saliency mapping** for clinican-interpretable feature insights
 
 [View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
 
@@ -60,14 +56,15 @@ https://doi.org/10.5281/zenodo.18487174
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
-- Worked on production-oriented clinical ML/NLP workflows within Kubernetes-based cloud infrastructure on GKE
-- Supported large-scale clinical NLP pipeline development involving medical data cleaning, preprocessing, and feature engineering
+- Contributed to R&D workflows for clinical NLP / LLM-based radiology report generation system within **GCP/GKE cloud infrastructure**
+-** Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
+- Implemented report augmentation pipeline, generating **17M+ report pairs** for downstream LLM modelling and evaluation workflows
+- Used containerised remote development environments, Kubernetes pods, and Git-based collaboration under senior engineering supervision
 
 
 ## Technical Stack
 
-
-- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLTK
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP
 - **Cloud / Infra:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker
 - **Software Engineering:** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
 - **Data:** Pandas, NumPy, SQL
