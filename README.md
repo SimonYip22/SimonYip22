@@ -1,6 +1,8 @@
 # Simon Yip 葉詠倫
 
-MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP. Experience with cloud-based ML workflows (GKE) at RadNomics, currently contributing to R&D of production-scale NLP radiology report generation system 
+MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP. 
+
+Experience with cloud-based ML workflows (GKE) at RadNomics, currently contributing to R&D of production-scale NLP radiology report generation system 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi" />
