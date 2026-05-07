@@ -90,8 +90,9 @@ https://doi.org/10.5281/zenodo.18487174
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
 
-#### _Audits_
+#### _Audit Cycles_
 - Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
+- Plastic Surgery, Free Flap Surgical Outcomes Audit
 
 #### _Healthcare Data Skills_
 - **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
