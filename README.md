@@ -81,7 +81,7 @@ https://doi.org/10.5281/zenodo.18487174
 - _Yip, S. (2026). Clinical Entity Extraction-Validation System (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20018309_
 
 
-## Clinical Background
+## Clinical Experience
 
 
 **Audit & Research Assistant @ Norfolk and Norwich University Hospital**
