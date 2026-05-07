@@ -11,7 +11,7 @@ MBBS and Applied Machine Learning Engineer building end-to-end clinical ML syste
 
 ## Featured Projects
 
-#### Clinical Entity Extraction-Validation System
+### Clinical Entity Extraction-Validation System
 
 _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
@@ -32,7 +32,7 @@ https://doi.org/10.5281/zenodo.20018309
 </p>
 
 
-#### Time-Series ICU Patient Deterioration Predictor  
+### Time-Series ICU Patient Deterioration Predictor  
 
 _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
