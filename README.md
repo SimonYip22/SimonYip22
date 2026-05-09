@@ -57,7 +57,7 @@ https://doi.org/10.5281/zenodo.18487174
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
-- Contributed to R&D workflows for clinical NLP / LLM-based radiology report generation system within **GCP/GKE cloud infrastructure**
+- Contributed to R&D workflows for production clinical NLP system within **GCP/GKE cloud infrastructure**
 - **Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
 - Implemented report augmentation pipeline, generating **17M+ report pairs** for downstream LLM modelling and evaluation workflows
 - Used containerised remote development environments, Kubernetes pods, and Git-based collaboration under senior engineering supervision
