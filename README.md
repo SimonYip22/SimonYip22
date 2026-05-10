@@ -67,7 +67,7 @@ https://doi.org/10.5281/zenodo.18487174
 
 - **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP
 - **Cloud / Infra:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker
-- **Software Engineering:** Python, FastAPI, Git/GitHub, CI/CD (GitHub Actions)
+- **Software Engineering:** Python (OOP), FastAPI, Git/GitHub, CI/CD (GitHub Actions)
 - **Data:** Pandas, NumPy, SQL
 
 
@@ -84,7 +84,6 @@ https://doi.org/10.5281/zenodo.18487174
 
 
 ## Clinical Experience
-
 
 **Audit & Research Assistant @ Norfolk and Norwich University Hospital**
 
