@@ -74,7 +74,9 @@ https://doi.org/10.5281/zenodo.18487174
 ## Education
 
 - ***MSc, Computer Science with Artificial Intelligence*** @ City St George’s, University of London
-- ***MBBS, Medicine*** @ Norwich Medical School
+  - **Relevant Modules:** Machine Learning, Artificial Intelligence, Cloud Computing, Software Engineering, Databases, Big Data Analytics and Visualisation
+  - **Final Masters Project (Pending):** _Evaluating Retrieval-Augmented Generation for Radiology Impression Drafting Using Clinically Significant Error Metrics_
+- ***MBBS, Medicine*** @ Norwich Medical School, University of East Anglia
 
 
 ## Archives
@@ -85,6 +87,7 @@ https://doi.org/10.5281/zenodo.18487174
 
 ## Clinical Experience
 
+**MBBS Medical Student @ Norwich Medical School, University of East Anglia**
 **Audit & Research Assistant @ Norfolk and Norwich University Hospital**
 
 #### _Research_
