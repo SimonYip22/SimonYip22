@@ -1,8 +1,11 @@
 # Simon Yip 葉詠倫
 
-MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and NLP using large-scale medical sets. 
+MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and clinical NLP using large-scale medical datasets. 
 
-Experience with cloud-based ML workflows (GKE) at RadNomics, currently contributing to R&D of production-scale clinical NLP system.
+Developed pipelines with core emphasis on clinical transparency and model interpretability, using PyTorch, Scikit-Learn, Hugging Face, and integrated Google Cloud Run deployment with versioning via GitHub Actions
+
+Currently contributing to R&D of production-scale clinical NLP system at RadNomics, using GKE-based cloud workflows
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi" />
