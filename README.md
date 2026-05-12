@@ -26,11 +26,7 @@ _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Go
 - Transformer validation achieved **+45.9% in precision** and **−83.3% in false positives** relative to rule-only baseline
 - Deployed inference pipeline as stateless, containerised API on **Google Cloud Run**; versioned via **GitHub Actions**
 
-[Access Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs)
-
-[View Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System)
-
-https://doi.org/10.5281/zenodo.20018309
+[Access Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs) | [View Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System) | https://doi.org/10.5281/zenodo.20018309
 
 <p align="center">
   <img src="system_architecture.png" width="600"/>
@@ -47,9 +43,7 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 - TCN achieved **+9.3% AUC improvement** for acute-event detection; LightGBM achieved **−68% Brier score and −48% RMSE** for prolonged risk exposure
 - Implemented **SHAP and saliency mapping** for clinican-interpretable feature insights
 
-[View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor)
-
-https://doi.org/10.5281/zenodo.18487174
+[View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor) | https://doi.org/10.5281/zenodo.18487174
 
 <p align="center">
   <img src="tcn_architecture_detailed.png" width="600"/>
