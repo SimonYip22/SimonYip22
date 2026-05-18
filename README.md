@@ -1,4 +1,4 @@
-# Simon Yip 葉詠倫
+# Simon Yip
 
 MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and clinical NLP using large-scale medical datasets. 
 
