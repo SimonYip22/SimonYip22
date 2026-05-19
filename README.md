@@ -4,7 +4,7 @@ MBBS and Applied Machine Learning Engineer building end-to-end clinical ML syste
 
 Developed pipelines with core emphasis on clinical transparency and model interpretability, using PyTorch, Scikit-Learn, Hugging Face, and Google Cloud Run deployment with GitHub Actions versioning.
 
-Currently contributing to R&D workflows using GKE-based cloud infrastructure for production-scale clinical NLP system at RadNomics.
+Currently contributing to R&D workflows at RadNomics using GKE-based cloud infrastructure for production-scale clinical NLP system.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi" />
