@@ -7,7 +7,7 @@ Developed pipelines with core emphasis on clinical transparency and model interp
 Currently contributing to R&D workflows at RadNomics using GKE-based cloud infrastructure for production-scale clinical NLP system.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi, postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,fastapi" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,gcp,linux,bash" />
