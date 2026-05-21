@@ -64,7 +64,7 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 - **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, NLP
 - **Cloud / Infra:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker
 - **Software Engineering:** Python (OOP), FastAPI, Git/GitHub, CI/CD (GitHub Actions)
-- **Data:** Pandas, NumPy, SQL
+- **Data:** Pandas, NumPy, SQL/PostgreSQL
 
 
 ## Education
