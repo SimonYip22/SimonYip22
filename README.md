@@ -55,9 +55,8 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
 - Contributed to R&D workflows for production clinical NLP system within **GCP/GKE cloud infrastructure**
 - **Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
-- Implemented report augmentation pipeline, generating **17M+ report pairs** for downstream LLM modelling and evaluation workflows
+- Implemented report augmentation pipeline, generating **17M+ report pairs** for downstream model evaluation workflows
 - Used containerised remote development environments, Kubernetes pods, and Git-based collaboration under senior engineering supervision
-
 
 ## Technical Stack
 
