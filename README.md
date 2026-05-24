@@ -94,7 +94,7 @@ _**Audit & Research Assistant @ Norfolk and Norwich University Hospital**_
 - Plastic Surgery, Free Flap Surgical Outcomes Audit
 
 #### _Healthcare Data Skills_
-- **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), HL7-FHIR, NEWS2, GDPR
+- **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), NEWS2, GDPR
 - **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
 
 ##
