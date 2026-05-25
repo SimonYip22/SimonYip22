@@ -1,6 +1,6 @@
 # Simon Yip
 
-MBBS and Applied Machine Learning Engineer building end-to-end clinical ML systems across time-series modelling and clinical NLP using large-scale medical datasets. 
+MBBS and Applied Machine Learning Engineer building end-to-end clinical systems across time-series modelling and clinical NLP using large-scale medical datasets. 
 
 Developed pipelines with core emphasis on clinical transparency and model interpretability, using PyTorch, Scikit-Learn, Hugging Face, and Google Cloud Run deployment with GitHub Actions versioning.
 
