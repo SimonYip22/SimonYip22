@@ -20,7 +20,7 @@ Currently contributing to R&D workflows at RadNomics using GKE-based cloud infra
 _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
 - Cloud-deployed hybrid clinical NLP system combining rule-based extraction and transformer validation to generate structured entity outputs from ICU progress notes for downstream analysis and ML workflows
-- Implemented regex-based extraction schemas for recall-focused extraction of 3 clinical entity types; fine-tuned BioClinicalBERT classifier on **1000+ manually annotated entities** for precision-oriented validation layer
+- Implemented regex-based extraction schemas for recall-focused extraction of 3 clinical entity types; fine-tuned a BioClinicalBERT classifier on **1000+ manually annotated entities** for precision-oriented validation layer
 - Extracted **780,000+** structured entities from filtered adult ICU corpus of **160,000+ notes (30,000+ stays)**
 - Transformer validation achieved **+45.9% in precision** and **−83.3% in false positives** relative to rule-only baseline
 - Deployed inference pipeline as stateless, containerised API on **Google Cloud Run**; versioned via **GitHub Actions**
