@@ -69,7 +69,7 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 ## Education
 
 - ***MSc, Computer Science with Artificial Intelligence*** @ City St George’s, University of London
-  - **Final Project:** ***Evaluating Retrieval-Augmented Generation for Radiology Impression Drafting Using Clinically Significant Error Metrics***
+  - **Final Project (pending):** ***Evaluating Retrieval-Augmented Generation for Radiology Impression Drafting Using Clinically Significant Error Metrics***
 - ***MBBS, Medicine*** @ Norwich Medical School, University of East Anglia
 
 
