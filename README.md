@@ -49,7 +49,7 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 </p>
 
 
-## Experience
+## Professional Experience
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
