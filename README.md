@@ -2,7 +2,7 @@
 
 MBBS and Applied Machine Learning Engineer building end-to-end clinical systems across time-series modelling and clinical NLP using large-scale medical datasets
 
-Developed pipelines with core emphasis on clinical transparency and model interpretability, using PyTorch, Scikit-Learn, Hugging Face, and versioned Google Cloud Run deployment
+Developed pipelines with core emphasis on clinical transparency and model interpretability using PyTorch, Scikit-Learn, Hugging Face, and Google Cloud Run deployment
 
 Currently contributing to R&D workflows at RadNomics using GKE-based cloud infrastructure for data engineering and evaluation methods for production-scale radiology RAG system
 
