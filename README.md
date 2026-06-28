@@ -57,7 +57,7 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 - **Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
 - Implemented report augmentation pipeline, generating **17M+ report pairs** for downstream model evaluation workflows
 - Used containerised remote development environments, Kubernetes pods, and Git-based collaboration under senior engineering supervision
-- Built a scalable evaluation pipeline for candidate LLMs in radiology report reconstruction, integrating API-based model generation, text/semantic similarity metrics, and operational performance tracking.
+- Built a scalable evaluation pipeline for candidate LLMs in radiology report reconstruction, integrating client API-based model generation, text/semantic similarity metrics, and operational performance tracking.
 
 ## Technical Stack
 
