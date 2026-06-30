@@ -53,18 +53,16 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
-- Contributed to R&D workflows for production radiology RAG system within **GCP/GKE cloud infrastructure**
 - **Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
 - Implemented report augmentation pipeline, generating **17M+ report pairs** for downstream model evaluation workflows
-- Used containerised remote development environments, Kubernetes pods, and Git-based collaboration under senior engineering supervision
-- Built a scalable evaluation pipeline for candidate LLMs in radiology report reconstruction, integrating client API-based model generation, text/semantic similarity metrics, and operational performance tracking.
+- Distributed workflows within containerised remote development environments, Kubernetes pods, and Git-based collaboration within GKE-based cloud infrastructure
+- Built a scalable evaluation pipeline for candidate LLMs in radiology report reconstruction, integrating client API-based model report generation, text/semantic similarity metrics, and operational performance tracking.
 
 ## Technical Stack
 
 - **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP, LLM Evaluation
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions CI/CD
-- **Data & Engineering:** Python (OOP) Pandas, NumPy, SQL/PostgreSQL, Bash
-
+- **Data & Engineering:** Python (OOP) Pandas, NumPy, SQL (PostgreSQL/MySQL), Bash
 
 ## Education
 
