@@ -19,11 +19,12 @@ Currently contributing to R&D workflows at RadNomics using GKE-based cloud infra
 
 _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
-- Cloud-deployed hybrid clinical NLP system combining rule-based extraction and transformer validation to generate structured entity outputs from ICU progress notes for downstream analysis and ML workflows
-- Implemented regex-based extraction schemas for recall-focused extraction of 3 clinical entity types; fine-tuned a BioClinicalBERT classifier on **1000+ manually annotated entities** for precision-oriented validation layer
-- Extracted **780,000+** structured entities from filtered adult ICU corpus of **160,000+ notes (30,000+ stays)**
+- Cloud-deployed hybrid clinical NLP system generating structured entity outputs from adult ICU progress notes
+- Implemented rule-based regex extraction schemas for recall-focused extraction of **3 clinical entity types**
+- **Fine-tuned a BioClinicalBERT classifier on 1000+ manually annotated entities,** and integrated precision-oriented threshold tuning for final entity validation
+- **Extracted 780,000+ structured entities** from a preprocessed ICU corpus of **160,000+ notes (30,000+ stays)**
 - Transformer validation achieved **+45.9% in precision** and **−83.3% in false positives** relative to rule-only baseline
-- Deployed inference pipeline as stateless, containerised API on **Google Cloud Run**; versioned via **GitHub Actions**
+- Deployed inference pipeline as **stateless, containerised API on Google Cloud Run** with GitHub Actions versioning
 
 [Access Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs) | [View Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System) | https://doi.org/10.5281/zenodo.20018309
 
@@ -36,11 +37,11 @@ _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Go
 
 _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
-- Dual-architecture ICU early warning system combining Temporal CNN (TCN) and LightGBM to predict NEWS2-derived deterioration outcomes across 3 clinical risk dimensions
-- Clincally validated data preprocessing included CO2 retainer logic, GCS mapping, and supplemental O2 protocols
-- Engineered **171 timestamp-level features (8 vital parameters; 96-hour windows)** and **40 aggregated patient-level features** from **70,000+ time-series observations across 140 ICU stays**
+- Dual-architecture ICU early warning system combining a Temporal CNN (TCN) and LightGBM to predict NEWS2-derived deterioration outcomes across **3 clinical risk dimensions**
+- Transformed clinical data across **140 ICU stays** using CO2 retainer logic, GCS mapping, and oxygen protocols
+- **Engineered 171 timestamp-level features (8 vital parameters; 96-hour windows)** and **40 aggregated patient-level features** from **70,000+ extracted time-series observations**
 - TCN achieved **+9.3% AUC improvement** for acute-event detection; LightGBM achieved **−68% Brier score and −48% RMSE** for prolonged risk exposure
-- Implemented **SHAP and saliency mapping** for clinican-interpretable feature insights
+- Implemented clinician-interpretable SHAP and saliency mapping for feature contribution insights
 
 [View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor) | https://doi.org/10.5281/zenodo.18487174
 
@@ -53,10 +54,9 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
-- **Processed 2.3M+ radiology reports** involving medical data cleaning, preprocessing, and feature engineering
-- Implemented report augmentation pipeline, generating **17M+ report pairs** for suitable for downstream multimodal workflows
-- Developed cloud-based distributed workflows and parallel processing systems inside GKE Kubernetes pods, collaborating via Git-based workflows
-- Built a scalable LLM evaluation pipeline for radiology report reconstruction task, integrating client API wrappers, text/semantic similarity metrics, and operational performance tracking
+- **Processed 2.3M+ radiology reports** and developed a data augmentation pipeline generating **17M+ report pairs** across **7 clinically relevant reconstruction tasks**
+- Ran large-scale ML research workflows in containerised remote environments on **GKE-based cloud infrastructure,** with Git-based collaboration
+- Built an LLM benchmarking framework across **6 candidate models,** generating **42,000 reconstructed reports** via provider APIs and evaluating using text and semantic similarity metrics, clincal scoring, and operational performance metrics
 
 ## Technical Stack
 
