@@ -4,7 +4,7 @@ MBBS and Applied Machine Learning Engineer building end-to-end clinical systems 
 
 Developed pipelines with core emphasis on clinical transparency and model interpretability using PyTorch, Scikit-Learn, Hugging Face, with Google Cloud Run deployment
 
-Currently contributing to large-scale ML research workflows at RadNomics involving LLM-based radiology report generation and evaluation
+Currently contributing to large-scale ML research workflows at RadNomics involving LLM-based radiology report generation and model evaluation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex" />
