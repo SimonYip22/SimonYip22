@@ -55,6 +55,7 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 - **Processed 2.3M+ radiology reports** and developed a data augmentation pipeline generating **17M+ report pairs** across **7 clinically relevant reconstruction tasks**
 - Ran large-scale ML research workflows in containerised remote environments on **GKE-based cloud infrastructure,** with Git-based collaboration
 - Built an LLM benchmarking framework across **6 candidate models,** generating **42,000 reconstructed reports** via provider APIs and evaluating using text and semantic similarity metrics, clincal scoring, and operational performance metrics
+- Integrated business insights into system workflows, converting anaylsis into actionable guidance
 
 ## Technical Stack
 
