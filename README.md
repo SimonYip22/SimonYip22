@@ -17,7 +17,7 @@ Currently contributing to large-scale ML research workflows at RadNomics involvi
 
 _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
-- Cloud-deployed hybrid clinical NLP system generating structured entity outputs from adult ICU progress notes
+- Hybrid clinical NLP system generating structured entity outputs from adult ICU progress notes
 - Implemented rule-based regex extraction schemas for recall-focused extraction of **3 clinical entity types**
 - **Fine-tuned a BioClinicalBERT classifier on 1000+ manually annotated entities,** and integrated precision-oriented threshold tuning for final entity validation
 - **Extracted 780,000+ structured entities** from a preprocessed ICU corpus of **160,000+ notes (30,000+ stays)**
