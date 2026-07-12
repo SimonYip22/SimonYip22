@@ -59,8 +59,8 @@ _Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
 
 ## Technical Stack
 
-- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP, LLM Evaluation
-- **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions CI/CD
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP (regex, NLTK), LLM Evaluation
+- **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Bash
 
 ## Education
