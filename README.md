@@ -1,6 +1,6 @@
 # Simon Yip
 
-MBBS and Machine Learning Engineer building end-to-end clinical systems across time-series modelling and clinical NLP using large-scale medical datasets
+MBBS and Machine Learning Engineer building end-to-end clinical systems across time-series modelling and NLP using large-scale medical datasets
 
 Currently contributing to large-scale ML research workflows at RadNomics involving LLM-based radiology report generation and model evaluation
 
