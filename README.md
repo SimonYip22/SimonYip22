@@ -15,7 +15,7 @@ Currently contributing to large-scale ML research workflows at RadNomics involvi
 
 ### Clinical Entity Extraction-Validation System
 
-_Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
+_Python | PyTorch | Hugging Face | Scikit-learn | Pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
 
 - Hybrid clinical NLP system generating structured entity outputs from adult ICU progress notes
 - Implemented rule-based regex extraction schemas for recall-focused extraction of **3 clinical entity types**
@@ -33,7 +33,7 @@ _Python | PyTorch | Hugging Face | scikit-learn | pandas | FastAPI | Docker | Go
 
 ### Time-Series ICU Patient Deterioration Predictor  
 
-_Python | PyTorch | LightGBM | scikit-learn | pandas | NumPy_
+_Python | PyTorch | LightGBM | Scikit-learn | Pandas | NumPy_
 
 - Dual-architecture ICU early warning system combining a Temporal CNN (TCN) and LightGBM to predict NEWS2-derived deterioration outcomes across **3 clinical risk dimensions**
 - Transformed clinical data across **140 ICU stays** using CO2 retainer logic, GCS mapping, and oxygen protocols
