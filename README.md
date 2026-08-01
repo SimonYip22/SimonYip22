@@ -50,13 +50,10 @@ _Python | PyTorch | LightGBM | Scikit-learn | Pandas | NumPy_
 - Built an LLM benchmarking framework across **6 candidate language models,** generating **42,000 reconstructed reports** and evaluating using text and semantic similarity metrics, clincal scoring, and operational performance metrics
 - Implemented model recommendations into production system workflows
 
-## Technical Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex,vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
 </p>
 
 - **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP (regex, NLTK), LLM Evaluation
