@@ -4,13 +4,6 @@ MBBS and Machine Learning Engineer building end-to-end clinical systems across t
 
 Currently contributing to large-scale ML research workflows at RadNomics involving LLM-based radiology report generation and proprietary model evaluation
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
-</p>
-
 ## Featured Projects
 
 ### Clinical Entity Extraction-Validation System
@@ -58,6 +51,13 @@ _Python | PyTorch | LightGBM | Scikit-learn | Pandas | NumPy_
 - Implemented model recommendations into production system workflows
 
 ## Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
+</p>
 
 - **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP (regex, NLTK), LLM Evaluation
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
