@@ -1,14 +1,14 @@
 # Simon Yip
 
-MBBS and Machine Learning Engineer building end-to-end clinical systems across time-series modelling and NLP using large-scale medical datasets
+MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and NLP
 
-Currently contributing to large-scale ML research workflows at RadNomics involving LLM-based radiology report generation and proprietary model evaluation
+Currently contributing to ML research workflows at RadNomics involving large-scale radiology report generation, data augmentation, and proprietary LLM evaluation
 
 ## Featured Projects
 
 ### Clinical Entity Extraction-Validation System
 
-_Python | PyTorch | Hugging Face | Scikit-learn | Pandas | FastAPI | Docker | Google Cloud Run | GitHub Actions_
+_Python · PyTorch · Hugging Face Transformers · Scikit-learn · Pandas · FastAPI · Docker · Google Cloud Run · GitHub Actions_
 
 - Hybrid clinical NLP system generating structured entity outputs from adult ICU progress notes
 - Implemented rule-based regex extraction schemas for recall-focused extraction of **3 clinical entity types**
@@ -17,16 +17,16 @@ _Python | PyTorch | Hugging Face | Scikit-learn | Pandas | FastAPI | Docker | Go
 - Transformer validation achieved **+45.9% in precision** and **−83.3% in false positives** relative to rule-only baseline
 - Deployed inference pipeline as **stateless, containerised API on Google Cloud Run** with GitHub Actions versioning
 
-[Access Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs) | [View Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System) | https://doi.org/10.5281/zenodo.20018309
+[Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs) · [Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System) · [Zenodo DOI](https://doi.org/10.5281/zenodo.20018309)
 
 <p align="center">
-  <img src="system_architecture.png" width="600"/>
+  <img src="system_architecture.png" width="650" alt="Clinical entity extraction and validation system architecture"/>
 </p>
 
 
 ### Time-Series ICU Patient Deterioration Predictor  
 
-_Python | PyTorch | LightGBM | Scikit-learn | Pandas | NumPy_
+_Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 
 - Dual-architecture ICU early warning system combining a Temporal CNN (TCN) and LightGBM to predict NEWS2-derived deterioration outcomes across **3 clinical risk dimensions**
 - Transformed clinical data across **140 ICU stays** using CO2 retainer logic, GCS mapping, and oxygen protocols
@@ -34,10 +34,10 @@ _Python | PyTorch | LightGBM | Scikit-learn | Pandas | NumPy_
 - TCN achieved **+9.3% AUC improvement** for acute-event detection; LightGBM achieved **−68% Brier score and −48% RMSE** for prolonged risk exposure
 - Implemented clinician-interpretable SHAP and saliency mapping for feature contribution insights
 
-[View Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor) | https://doi.org/10.5281/zenodo.18487174
+[Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor) · [Zenodo DOI](https://doi.org/10.5281/zenodo.18487174)
 
 <p align="center">
-  <img src="tcn_architecture_detailed.png" width="600"/>
+  <img src="tcn_architecture_detailed.png" width="650" alt="Temporal convolutional network architecture"/>
 </p>
 
 
@@ -48,9 +48,8 @@ _Python | PyTorch | LightGBM | Scikit-learn | Pandas | NumPy_
 - **Processed 2.3M+ radiology reports** and developed a data augmentation pipeline generating **17M+ report pairs** across **7 clinically relevant reconstruction tasks**
 - Ran large-scale ML research workflows in containerised remote environments on **GKE-based cloud infrastructure,** with Git-based collaboration
 - Built an LLM benchmarking framework across **6 candidate language models,** generating **42,000 reconstructed reports** and evaluating using text and semantic similarity metrics, clincal scoring, and operational performance metrics
-- Implemented model recommendations into production system workflows
 
-## Tech Stack
+## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex,vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
@@ -65,18 +64,7 @@ _Python | PyTorch | LightGBM | Scikit-learn | Pandas | NumPy_
 - ***MSc, Computer Science with Artificial Intelligence*** @ City St George’s, University of London
 - ***MBBS, Medicine*** @ Norwich Medical School, University of East Anglia
 
-
-## Archives
-
-- _Yip, S. (2026). Clinical Entity Extraction-Validation System (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20018309_
-- _Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18487174_
-
-
 ## Clinical Experience
-
-_**MBBS Medical Student @ Norwich Medical School, University of East Anglia**_
-
-_**Audit & Research Assistant @ Norfolk and Norwich University Hospital**_
 
 #### _Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
@@ -89,6 +77,12 @@ _**Audit & Research Assistant @ Norfolk and Norwich University Hospital**_
 #### _Healthcare Data Skills_
 - **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), NEWS2, GDPR
 - **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
+
+
+## Archives
+
+- _Yip, S. (2026). Clinical Entity Extraction-Validation System (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20018309_
+- _Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18487174_
 
 ##
 
