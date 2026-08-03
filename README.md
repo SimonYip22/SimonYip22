@@ -1,6 +1,6 @@
 # Simon Yip
 
-MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and NLP
+MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and clinical NLP
 
 Currently contributing to ML research workflows at RadNomics involving large-scale radiology report generation, data augmentation, and proprietary LLM evaluation
 
@@ -66,7 +66,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 
 ## Clinical Experience
 
-#### _Research_
+#### _Clinical Research_
 - Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
 - Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
 
