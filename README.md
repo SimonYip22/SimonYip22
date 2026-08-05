@@ -52,7 +52,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex,vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,mysql,seaborn,regex,vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
 </p>
 
 - **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP, LLM Evaluation
