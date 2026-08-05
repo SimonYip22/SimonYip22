@@ -55,9 +55,9 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,postgres,regex,vscode,fastapi,docker,kubernetes,gcp,linux,bash" />
 </p>
 
-- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP (regex, NLTK), LLM Evaluation
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP, LLM Evaluation
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
-- **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Bash
+- **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Seaborn, Bash
 
 ## Education
 
