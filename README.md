@@ -2,7 +2,7 @@
 
 MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and clinical NLP
 
-Currently contributing to ML research workflows at RadNomics involving large-scale radiology report generation, data augmentation, and proprietary LLM evaluation
+Currently contributing to ML research workflows at RadNomics involving radiology report generation, large-scale data augmentation, and proprietary LLM evaluation
 
 ## Featured Work
 
