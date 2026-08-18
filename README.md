@@ -1,4 +1,4 @@
-# Simon W L Yip
+# Simon Yip
 
 MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and clinical NLP
 
