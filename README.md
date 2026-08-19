@@ -2,7 +2,7 @@
 
 MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and clinical NLP
 
-Currently contributing to ML research workflows at RadNomics involving radiology report generation, large-scale data augmentation, and proprietary LLM evaluation
+Currently contributing to ML research workflows at RadNomics involving unsupervised radiology report generation, large-scale data augmentation, and proprietary LLM evaluation
 
 ## Featured Work
 
@@ -45,10 +45,10 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
-- **Processed 2.3M+ radiology reports** and developed a data augmentation pipeline generating **17M+ report pairs** across **7 clinically relevant reconstruction tasks**
-- Ran large-scale ML research workflows in containerised remote environments on **GKE-based cloud infrastructure,** with Git-based collaboration
-- Built an LLM benchmarking framework across **6 candidate language models,** generating **42,000 reconstructed reports** and evaluating using text and semantic similarity metrics, clinical scoring, and operational performance metrics
-- Integrated performance insights into production system workflows to enhance generation/edit/dictation performance
+- **Processed 2.3M+ radiology reports** and developed a data augmentation pipeline generating **17M+ report pairs** across **7 clinical reconstruction tasks**
+- Ran large-scale ML research workflows within containerised remote environments leveraging Git-based version control and distributed **GKE-based cloud infrastructure**
+- Built a proprietary LLM benchmarking framework evaluating **6 frontier language models** across **42,000 reconstructions**, quantifying performance using lexical, semantic, and clinical entity-aware metrics
+- Translated performance insights into production system workflows, directly optimising downstream efficiency of report generation, editing, and dictation features
 
 ## Technical Skills
 
