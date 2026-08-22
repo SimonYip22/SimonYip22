@@ -46,7 +46,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
 - **Processed 2.3M+ radiology reports** and developed a data augmentation pipeline generating **17M+ report pairs** across **7 clinical reconstruction tasks**
-- Ran large-scale ML research workflows within containerised remote environments leveraging Git-based version control and distributed **GKE-based cloud infrastructure**
+- Ran large-scale ML research workflows within containerised remote environments using Git-based version control and distributed **GKE-based cloud infrastructure**
 - Built a proprietary LLM benchmarking framework evaluating **6 frontier language models** across **42,000 reconstructions**, quantifying performance using lexical, semantic, and clinical entity-aware metrics
 - Translated performance insights into production system workflows, directly optimising downstream efficiency of report generation, editing, and dictation features
 
