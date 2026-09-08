@@ -49,6 +49,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 - Ran large-scale ML research workflows within containerised remote environments using Git-based version control and distributed **GKE-based cloud infrastructure**
 - Built a proprietary LLM benchmarking framework evaluating **6 frontier language models** across **42,000 reconstructions**, quantifying performance using lexical, semantic, and clinical entity-aware metrics
 - Translated performance insights into production system workflows, directly optimising downstream efficiency of report generation, editing, and dictation features
+- Currently evaluatung proprietary open models fro baseline comparison
 
 ## Technical Skills
 
