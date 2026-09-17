@@ -45,11 +45,10 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 
 **Applied Machine Learning Engineer @ RadNomics Ltd** 
 
-- **Processed 2.3M+ radiology reports** and developed a data augmentation pipeline generating **17M+ report pairs** across **7 clinical reconstruction tasks**
+- **Processed 2.3 million radiology reports** and developed a data augmentation pipeline generating **15.57 million report pairs** across **7 clinical reconstruction tasks**
 - Ran large-scale ML research workflows within containerised remote environments using Git-based version control and distributed **GKE-based cloud infrastructure**
-- Built a proprietary LLM benchmarking framework evaluating **6 frontier language models** across **42,000 reconstructions**, quantifying performance using lexical, semantic, and clinical entity-aware metrics
+- Built a proprietary LLM benchmarking framework evaluating **9 proprietary and open language models** across **63,000 reconstructions**, quantifying performance using lexical, semantic, and clinical entity-aware metrics
 - Translated performance insights into production system workflows, directly optimising downstream efficiency of report generation, editing, and dictation features
-- Currently evaluatung proprietary open models fro baseline comparison
 
 ## Technical Skills
 
@@ -57,7 +56,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
   <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,git,github,githubactions,postgres,mysql,regex,vscode,fastapi,docker,kubernetes,gcp,bash" />
 </p>
 
-- **Machine Learning:** PyTorch, TensorFlow/Keras, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP, LLM Evaluation
+- **Machine Learning:** PyTorch, TensorFlow/Keras, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP, LLM Evaluation, LLM Fine-Tuning
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Seaborn
 
