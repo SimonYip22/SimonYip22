@@ -58,7 +58,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 
 - **Machine Learning:** PyTorch, TensorFlow/Keras, Scikit-learn, LightGBM, Hugging Face Transformers, Clinical NLP, LLM Evaluation, LLM Fine-Tuning
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
-- **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Seaborn
+- **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL)
 
 ## Education
 
