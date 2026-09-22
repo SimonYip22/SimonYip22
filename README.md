@@ -48,6 +48,11 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 - Implemented scalable LLM evaluation framework across **9** proprietary and open models, analysing **63,000** validated generations using textual, semantic, radiology-aware, and operational metrics
 - Developed reproducible research within private GCP/GKE infrastructure environment, with Git-based code review
 
+## Education
+
+- ***MSc, Computer Science with Artificial Intelligence*** @ City St George’s, University of London
+- ***MBBS, Medicine*** @ Norwich Medical School, University of East Anglia
+
 ## Technical Skills
 
 <p align="center">
@@ -57,11 +62,6 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 - **Machine Learning:** PyTorch, TensorFlow/Keras, Scikit-learn, LightGBM, Hugging Face Transformers, PEFT/LoRA, vLLM
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
-
-## Education
-
-- ***MSc, Computer Science with Artificial Intelligence*** @ City St George’s, University of London
-- ***MBBS, Medicine*** @ Norwich Medical School, University of East Anglia
 
 ##
 
