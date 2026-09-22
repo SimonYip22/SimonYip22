@@ -47,8 +47,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 
 - **Processed 2.3 million radiology reports** and developed a data augmentation pipeline generating **15.57 million report pairs** across **7 clinical reconstruction tasks**
 - Ran large-scale ML research workflows within containerised remote environments using Git-based version control and distributed **GKE-based cloud infrastructure**
-- Built a proprietary LLM benchmarking framework evaluating **9 proprietary and open language models** across **63,000 reconstructions**, quantifying performance using lexical, semantic, and clinical entity-aware metrics
-- Translated performance insights into production system workflows, directly optimising downstream efficiency of report generation, editing, and dictation features
+- Built an LLM benchmarking framework evaluating **9 proprietary and open language models** across **63,000 reconstructions**, quantifying performance using lexical/semantic, clinical entity-aware, and operational metrics
 
 ## Technical Skills
 
@@ -64,26 +63,6 @@ _Python · PyTorch · LightGBM · Scikit-learn · Pandas · NumPy · SHAP_
 
 - ***MSc, Computer Science with Artificial Intelligence*** @ City St George’s, University of London
 - ***MBBS, Medicine*** @ Norwich Medical School, University of East Anglia
-
-## Clinical Experience
-
-#### _Clinical Research_
-- Lacertus syndrome and its surgical management using WALANT - our first 12 cases (Research Poster)
-- Giant trichoblastic carcinoma initially misdiagnosed as basal cell carcinoma (Case Report)
-
-#### _Audit Cycles_
-- Head and Neck Surgery, Integrated Care Pathway Surgical Proforma Audit
-- Plastic Surgery, Free Flap Surgical Outcomes Audit
-
-#### _Healthcare Data Skills_
-- **Clinical Informatics:** EHR Systems (ICE, SystmOne, MediViewer, EPMA), NEWS2, GDPR
-- **Clinical Research:** Audit Methodology, Literature Review, Critical Appraisal, Manuscript Preparation
-
-
-## Archives
-
-- _Yip, S. (2026). Clinical Entity Extraction-Validation System (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20018309_
-- _Yip, S. (2026). Time-Series ICU Patient Deterioration Predictor (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18487174_
 
 ##
 
