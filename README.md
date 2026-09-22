@@ -42,7 +42,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 ## Professional Experience
 
-**Applied Machine Learning Engineer @ RadNomics Ltd** 
+***Applied Machine Learning Engineer @ RadNomics Ltd***
 
 - Built a radiology report data augmentation pipeline from **2.3 million** MIMIC-IV reports, producing **15.6 million** supervised reconstruction pairs and a **7,000**-task evaluation benchmark across seven controlled transformations
 - Implemented scalable LLM evaluation framework across **9** proprietary and open models, analysing **63,000** validated generations using textual, semantic, radiology-aware, and operational metrics
