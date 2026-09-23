@@ -2,7 +2,7 @@
 
 MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and healthcare NLP
 
-Currently building ML research pipeline at RadNomics ltd involving large-scale clinical dataset augmentation, unsupervised radiology report generation, LLM benchmarking, and open-model LoRA fine-tuning
+Currently building ML research pipeline at RadNomics involving large-scale clinical dataset augmentation, unsupervised radiology report generation, LLM benchmarking, and open-model LoRA fine-tuning
 
 ## Featured Projects
 
