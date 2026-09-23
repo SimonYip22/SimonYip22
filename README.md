@@ -55,10 +55,6 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 ## Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,git,github,githubactions,postgres,mysql,regex,vscode,fastapi,docker,kubernetes,gcp,bash" />
-</p>
-
 - **Machine Learning:** PyTorch, TensorFlow/Keras, Scikit-learn, LightGBM, Hugging Face Transformers, PEFT/LoRA, vLLM
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
