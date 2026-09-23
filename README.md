@@ -64,10 +64,3 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
 
 ##
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonYip22&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonYip22&layout=compact&theme=radical" />
-</p>
-
-##
