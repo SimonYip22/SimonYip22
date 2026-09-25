@@ -2,7 +2,7 @@
 
 MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and healthcare NLP
 
-Currently building ML research pipeline at RadNomics involving large-scale clinical dataset augmentation, unsupervised radiology report generation, LLM benchmarking, and open-model LoRA fine-tuning
+Currently building out the ML research pipeline at RadNomics involving large-scale clinical dataset augmentation, unsupervised radiology report generation, proprietary LLM benchmarking, and open-model LoRA fine-tuning
 
 ## Featured Projects
 
@@ -14,7 +14,7 @@ _Python · PyTorch · Hugging Face · FastAPI · Docker · Google Cloud Run · G
 - Implemented regex-based extraction schemas for recall-focused extraction of **3** clinical entity types
 - Fine-tuned and threshold-tuned a BioClinicalBERT classifier on **1000+** manually annotated entities for validation
 - Processed **160,000+** ICU notes across **30,000+** stays, extracting **780,000+** structured clinical entities
-- Improved validation precision by **45.9%** and reduced false positives by **83.3% relative** to the rule-only baseline
+- Improved validation precision by **45.9%** and reduced false positives by **83.3%** relative to the rule-only baseline
 - Containerised inference service with FastAPI/Docker, deployed on Google Cloud Run with GitHub Actions CI/CD
 
 [Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs) · [Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System) · [Zenodo DOI](https://doi.org/10.5281/zenodo.20018309)
