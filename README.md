@@ -23,6 +23,7 @@ _Python · PyTorch · Hugging Face · FastAPI · Docker · Google Cloud Run · G
   <img src="system_architecture.png" width="650" alt="Clinical entity extraction and validation system architecture"/>
 </p>
 
+##
 
 ### Time-Series ICU Patient Deterioration Predictor  
 
