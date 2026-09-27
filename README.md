@@ -55,7 +55,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 ## Technical Skills
 
-- **Machine Learning:** PyTorch, TensorFlow/Keras, Scikit-learn, LightGBM, Hugging Face Transformers, PEFT/LoRA, vLLM
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, PEFT/LoRA, vLLM
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
 
