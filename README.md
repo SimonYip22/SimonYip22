@@ -47,7 +47,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 - Built radiology data augmentation pipeline from **2.3 million** MIMIC-IV reports, producing **15.6 million** supervised reconstruction pairs and a **7,000**-task evaluation set across seven controlled transformations
 - Implemented scalable LLM evaluation framework across **9** proprietary and open models, analysing **63,000** validated generations using textual, semantic, radiology-aware, and operational metrics
-- Developed reproducible research within private GCP/GKE infrastructure environment, with Git-based code review, and presentation of research insights to executive team
+- Developed reproducible research within private GCP/GKE infrastructure environment, presenting research insights to founding team
 
 ## Education
 
@@ -61,3 +61,5 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
 
 ##
+
+
