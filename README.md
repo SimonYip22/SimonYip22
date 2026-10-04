@@ -51,8 +51,8 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 ## Education
 
-- ***MSc, Computer Science with Artificial Intelligence*** @ City St George’s, University of London
-- ***MBBS, Medicine*** @ Norwich Medical School, University of East Anglia
+- ***Master of Science (MSc), Computer Science with Artificial Intelligence*** @ City St George’s, University of London
+- ***Bachelor of Medicine, Bachelor of Surgery (MBBS), Medicine*** @ Norwich Medical School, University of East Anglia
 
 ## Technical Skills
 
