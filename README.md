@@ -45,9 +45,9 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 ***Applied Machine Learning Engineer @ RadNomics Ltd***
 
-- Built radiology data augmentation pipeline from **2.3 million** MIMIC-IV reports, producing **15.6 million** supervised reconstruction pairs and a **7,000**-task evaluation set across seven controlled transformations
-- Implemented core LLM evaluation framework across **9** proprietary and open models, analysing **63,000** validated generations using textual, semantic, radiology-aware, and operational metrics
-- Developed reproducible research within private GCP/GKE infrastructure environment, presenting core research insights to founding team
+- Built core radiology report data pipeline from **2.3M MIMIC-IV reports**, producing **15.6M augmented reconstruction pairs** and a **7,000-task evaluation benchmark** across **7 controlled transformations**
+- Created scalable LLM evaluation framework across **9 proprietary and open models**, analysing **63,000 validated generations** using textual, semantic, radiology-aware, and operational metrics
+- Ran core ML experimentation within **private GCP/GKE infrastructure**, presenting research findings to founders and directly informing model-selection and product-implementation decisions
 
 ## Education
 
@@ -56,7 +56,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 ## Technical Skills
 
-- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, PEFT/LoRA, vLLM
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, LoRA, vLLM
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
 
