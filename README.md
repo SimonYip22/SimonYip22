@@ -1,6 +1,6 @@
 # Simon Yip
 
-MBBS and machine learning engineer building end-to-end clinical systems across time-series modelling and healthcare NLP
+Machine learning engineer building end-to-end clinical systems across time-series modelling and healthcare NLP
 
 Currently building out the ML R&D pipeline at RadNomics, involving large-scale clinical dataset augmentation, unsupervised radiology report generation, proprietary LLM benchmarking, and open-model LoRA fine-tuning
 
@@ -56,7 +56,7 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 
 ## Technical Skills
 
-- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, LoRA, vLLM
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, LoRA
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
 
