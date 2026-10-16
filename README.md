@@ -1,8 +1,8 @@
 # Simon Yip
 
-Machine learning engineer building systems across time-series modelling and clinical NLP
+Machine learning engineer building ML systems across time-series modelling and clinical NLP
 
-Currently building out the ML R&D pipeline at RadNomics, involving large-scale clinical dataset augmentation, unsupervised radiology report generation, proprietary LLM benchmarking, and open-model LoRA fine-tuning
+Currently building out the research pipeline at RadNomics, involving large-scale clinical dataset augmentation, unsupervised radiology report generation, proprietary LLM benchmarking, and open-model LoRA fine-tuning
 
 ## Featured Projects
 
