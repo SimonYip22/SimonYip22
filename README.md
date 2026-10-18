@@ -19,10 +19,6 @@ _Python · PyTorch · Hugging Face · FastAPI · Docker · Google Cloud Run · G
 
 [Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs) · [Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System) · [Zenodo DOI](https://doi.org/10.5281/zenodo.20018309)
 
-<p align="center">
-  <img src="system_architecture.png" width="650" alt="Clinical entity extraction and validation system architecture"/>
-</p>
-
 ##
 
 ### Time-Series ICU Patient Deterioration Predictor  
@@ -35,10 +31,6 @@ _Python · PyTorch · LightGBM · Scikit-learn · SHAP_
 - Implemented clinician-interpretable SHAP and temporal saliency analysis for feature contribution insights
 
 [Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor) · [Zenodo DOI](https://doi.org/10.5281/zenodo.18487174)
-
-<p align="center">
-  <img src="tcn_architecture_detailed.png" width="650" alt="Temporal convolutional network architecture"/>
-</p>
 
 
 ## Professional Experience
