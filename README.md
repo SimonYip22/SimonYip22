@@ -6,31 +6,56 @@ Currently building out the research pipeline at RadNomics, involving large-scale
 
 ## Featured Projects
 
-### Clinical Entity Extraction-Validation System
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="left">Clinical Entity Extraction-Validation System</th>
+      <th width="50%" align="left">Time-Series ICU Patient Deterioration Predictor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <em>Python · PyTorch · Hugging Face · FastAPI · Docker · Google Cloud · GitHub Actions</em>
+      </td>
+      <td width="50%" valign="top">
+        <em>Python · PyTorch · LightGBM · Scikit-learn · SHAP</em>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <ul>
+          <li>Hybrid clinical NLP pipeline generating structured entity outputs from adult ICU progress notes</li>
+          <li>Implemented regex-based extraction schemas for recall-focused extraction of <strong>3</strong> clinical entity types</li>
+          <li>Fine-tuned and threshold-tuned a BioClinicalBERT classifier on <strong>1000+</strong> manually annotated entities for validation</li>
+          <li>Processed <strong>160,000+</strong> ICU notes across <strong>30,000+</strong> stays, extracting <strong>780,000+</strong> structured clinical entities</li>
+          <li>Improved validation precision by <strong>45.9%</strong> and reduced false positives by <strong>83.3%</strong> relative to the rule-only baseline</li>
+          <li>Containerised inference service with FastAPI/Docker, deployed on Google Cloud Run with GitHub Actions CI/CD</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <ul>
+          <li>Dual-architecture ICU early warning system combining a Temporal CNN (TCN) and LightGBM for NEWS2-derived deterioration prediction across <strong>3</strong> clinical risk dimensions</li>
+          <li>Engineered <strong>171</strong> timestamp-level features and <strong>40</strong> aggregated patient-level features across <strong>8</strong> vital parameters, from <strong>70,000+</strong> extracted time-series observations over <strong>140</strong> ICU stays</li>
+          <li>TCN improved acute-event AUC by <strong>9%</strong> over baseline; LightGBM reduced Brier score by <strong>68%</strong> and RMSE by <strong>48%</strong> for prolonged-risk prediction</li>
+          <li>Implemented clinician-interpretable SHAP and temporal saliency analysis for feature contribution insights</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs">Live API</a> ·
+        <a href="https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System">Repository</a> ·
+        <a href="https://doi.org/10.5281/zenodo.20018309">Zenodo DOI</a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor">Repository</a> ·
+        <a href="https://doi.org/10.5281/zenodo.18487174">Zenodo DOI</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-_Python · PyTorch · Hugging Face · FastAPI · Docker · Google Cloud Run · GitHub Actions_
-
-- Hybrid clinical NLP pipeline generating structured entity outputs from adult ICU progress notes
-- Implemented regex-based extraction schemas for recall-focused extraction of **3** clinical entity types
-- Fine-tuned and threshold-tuned a BioClinicalBERT classifier on **1000+** manually annotated entities for validation
-- Processed **160,000+** ICU notes across **30,000+** stays, extracting **780,000+** structured clinical entities
-- Improved validation precision by **45.9%** and reduced false positives by **83.3%** relative to the rule-only baseline
-- Containerised inference service with FastAPI/Docker, deployed on Google Cloud Run with GitHub Actions CI/CD
-
-[Live API](https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs) · [Repository](https://github.com/SimonYip22/Clinical-Entity-Extraction-Validation-System) · [Zenodo DOI](https://doi.org/10.5281/zenodo.20018309)
-
-##
-
-### Time-Series ICU Patient Deterioration Predictor  
-
-_Python · PyTorch · LightGBM · Scikit-learn · SHAP_
-
-- Dual-architecture ICU early warning system combining a Temporal CNN (TCN) and LightGBM for NEWS2-derived deterioration prediction across **3** clinical risk dimensions
-- Engineered **171** timestamp-level features and **40** aggregated patient-level features across **8** vital parameters, from **70,000+** extracted time-series observations over **140** ICU stays
-- TCN improved acute-event AUC by **9%** over baseline; LightGBM reduced Brier score by **68%** and RMSE by **48%** for prolonged-risk prediction
-- Implemented clinician-interpretable SHAP and temporal saliency analysis for feature contribution insights
-
-[Repository](https://github.com/SimonYip22/Time-Series-ICU-Patient-Deterioration-Predictor) · [Zenodo DOI](https://doi.org/10.5281/zenodo.18487174)
 
 
 ## Professional Experience
