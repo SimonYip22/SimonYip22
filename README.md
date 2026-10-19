@@ -1,9 +1,10 @@
 # Simon Yip
 
-Machine learning engineer building systems across clinical NLP, time-series modelling, and healthcare AI.
-Currently contributing to applied ML research at RadNomics, focusing on radiology data augmentation, LLM evaluation, and LoRA fine-tuning
+Machine learning engineer and MBBS with a focus on healthcare AI, clinical NLP, and time-series modelling
 
-## Featured Projects
+Currently building out the ML research pipeline at RadNomics, focusing on clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
+
+## Featured Work
 
 <table width="100%">
   <thead>
