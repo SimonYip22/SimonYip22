@@ -2,7 +2,7 @@
 
 Machine learning engineer and MBBS with an application within healthcare, focusing on clinical NLP and time-series modelling
 
-Currently building out the ML research pipeline at RadNomics, focusing on clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
+Currently building out the ML research pipeline at [RadNomics](radnomics.co.uk), involving clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
 
 ## Featured Work
 
@@ -56,7 +56,7 @@ Currently building out the ML research pipeline at RadNomics, focusing on clinic
   </tbody>
 </table>
 
-## Professional Experience
+## Experience
 
 ***Applied Machine Learning Engineer @ [RadNomics Ltd](radnomics.co.uk)***
 
@@ -69,7 +69,7 @@ Currently building out the ML research pipeline at RadNomics, focusing on clinic
 - ***Master of Science (MSc), Computer Science with Artificial Intelligence*** @ City St George’s, University of London
 - ***Bachelor of Medicine, Bachelor of Surgery (MBBS), Medicine*** @ Norwich Medical School, University of East Anglia
 
-## Technical Skills
+## Skills
 
 - **Machine Learning:** PyTorch, TensorFlow/Keras, Scikit-learn, LightGBM, Hugging Face Transformers
 - **DevOps:** Google Cloud Platform (GKE, Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
