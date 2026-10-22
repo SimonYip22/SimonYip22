@@ -2,7 +2,7 @@
 
 Machine learning engineer and MBBS with an application within healthcare, focusing on clinical NLP and time-series modelling
 
-Currently building out the ML research pipeline at [RadNomics](radnomics.co.uk), involving clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
+Currently building out the ML research pipeline at [RadNomics](www.radnomics.co.uk), involving clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
 
 ## Featured Work
 
@@ -58,7 +58,7 @@ Currently building out the ML research pipeline at [RadNomics](radnomics.co.uk),
 
 ## Professional Experience
 
-***Applied Machine Learning Engineer @ [RadNomics Ltd](radnomics.co.uk)***
+***Applied Machine Learning Engineer @ [RadNomics Ltd](www.radnomics.co.uk)***
 
 - Built core radiology report data pipeline from **2.3M MIMIC-IV reports**, producing **15.6M augmented reconstruction pairs** and a **7,000-task evaluation benchmark** across **7 controlled transformations**
 - Created scalable LLM evaluation framework across **9 proprietary and open models**, analysing **63,000 validated generations** using textual, semantic, radiology-aware, and operational metrics
