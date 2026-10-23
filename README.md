@@ -2,7 +2,7 @@
 
 Machine learning engineer and MBBS with an application within healthcare, focusing on clinical NLP and time-series modelling
 
-Currently building out the ML research pipeline at [RadNomics](https://radnomics.co.uk), involving clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
+Currently building out the ML research pipeline at [RadNomics](https://radnomics.co.uk), involving large-scale clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
 
 ## Featured Work
 
