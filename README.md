@@ -1,10 +1,11 @@
 # Simon Yip
 
-MBBS and Machine learning engineer applied within healthcare, focusing on clinical NLP and time-series modelling
+MBBS and Machine learning engineer applied within healthcare, focusing on clinical NLP, time-series modelling, and radiology LLMs
 
-Currently building the ML research pipeline at [RadNomics](https://radnomics.co.uk), involving large-scale clinical dataset augmentation, radiology report generation, LLM benchmarking, and LoRA fine-tuning
+Currently building the ML research pipeline at [RadNomics](https://radnomics.co.uk), involving large-scale clinical dataset augmentation, radiology report generation, LLM benchmarking, and MedGemma LoRA fine-tuning
 
 ## Featured Work
+
 
 <table width="100%">
   <thead>
@@ -30,7 +31,7 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
       <td width="50%" valign="top">
         <ul>
           <li>Hybrid clinical NLP pipeline generating structured entity outputs from ICU progress reports</li>
-          <li>Combines regex-based extraction across <strong>3</strong> clinical entity types, with validation from a BioClinicalBERT classifier fine-tuned on <strong>1000+</strong> manually annotated examples</li>
+          <li>Combines regex-based extraction across <strong>3</strong> clinical entity types, with validation from a <a href="https://huggingface.co/SimonYip22/bioclinicalbert-icu-entity-validator">BioClinicalBERT classifier</a> fine-tuned on <strong>1,200</strong> manually annotated examples</li>
           <li>Processed <strong>160,000+</strong> ICU notes across <strong>30,000+</strong> stays, generating <strong>780,000+</strong> candidate entities</li>
           <li>Improved validation precision by <strong>45.9%</strong> and reduced false positives by <strong>83.3%</strong> relative to the rule-only baseline</li>
           <li>Containerised FastAPI inference service with Docker, <a href="https://clinical-nlp-api-1064509144938.europe-west1.run.app/docs">deployed on Google Cloud Run</a> with GitHub Actions CI/CD</li>
@@ -48,6 +49,8 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
     <tr>
       <td width="50%" valign="top">
         Zenodo DOI: <a href="https://doi.org/10.5281/zenodo.20018309">10.5281/zenodo.20018309</a>
+        <br>
+        Hugging Face DOI: <a href="https://doi.org/10.57967/hf/11258">10.57967/hf/11258</a>
       </td>
       <td width="50%" valign="top">
         Zenodo DOI: <a href="https://doi.org/10.5281/zenodo.18487174">10.5281/zenodo.18487174</a>
@@ -55,6 +58,7 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
     </tr>
   </tbody>
 </table>
+
 
 ## Professional Experience
 
