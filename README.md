@@ -41,7 +41,7 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
         <ul>
           <li>Dual-architecture ICU deterioration prediction system using a Temporal CNN (TCN) and LightGBM across <strong>3</strong> NEWS2-derived clinical risk outcomes</li>
           <li>Engineered <strong>171</strong> timestamp-level and <strong>40</strong> aggregated patient-level features across <strong>8</strong> vital parameters, from <strong>70,000+</strong> extracted physiological observations across <strong>140</strong> ICU stays</li>
-          <li>TCN improved acute-event AUC by <strong>9%</strong> over baseline; LightGBM reduced Brier score by <strong>68%</strong> and RMSE by <strong>48%</strong> for prolonged-risk prediction</li>
+          <li>TCN improved acute-event AUC by <strong>9%</strong> for acute-event detection; LightGBM reduced Brier score by <strong>68%</strong> and RMSE by <strong>48%</strong> for prolonged-risk prediction</li>
           <li>Implemented SHAP and temporal saliency analysis for clinician-interpretability</li>
         </ul>
       </td>
