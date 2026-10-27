@@ -66,7 +66,7 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
 
 - Built core radiology report data pipeline from **2.3M MIMIC-IV reports**, producing **15.6M augmented reconstruction pairs** and a **7,000-task evaluation benchmark** across **7 controlled transformations**
 - Created scalable LLM evaluation framework across **9 proprietary and open models**, analysing **63,000 validated generations** using textual, semantic, radiology-aware, and operational metrics
-- Ran core ML experimentation within **private GCP/GKE infrastructure**, presenting research findings to founders and directly informing model-selection and product-implementation decisions
+- Ran core ML experimentation within **private GCP/GKE infrastructure**, presenting research findings to founding team, to directly inform model-selection and product-implementation decisions
 
 ## Education
 
