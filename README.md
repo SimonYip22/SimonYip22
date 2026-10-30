@@ -75,7 +75,7 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
 
 ## Technical Skills
 
-- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers
+- **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Hugging Face Transformers, LoRA
 - **DevOps:** Google Cloud Platform (GKE, Google Cloud Run), Kubernetes, Docker, FastAPI, GitHub Actions (CI/CD)
 - **Data & Engineering:** Python, Pandas, NumPy, SQL (PostgreSQL/MySQL), Git/GitHub
 
