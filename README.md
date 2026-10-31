@@ -71,6 +71,7 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
 ## Education
 
 - ***Master of Science (MSc), Computer Science with Artificial Intelligence*** @ City St George’s, University of London
+  - **Final Project:** _Evaluating Parameter-Efficient Fine-Tuning for Explainable Clinical Question Answering_
 - ***Bachelor of Medicine, Bachelor of Surgery (MBBS), Medicine*** @ Norwich Medical School, University of East Anglia
 
 ## Technical Skills
