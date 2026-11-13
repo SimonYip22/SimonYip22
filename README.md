@@ -72,6 +72,7 @@ Currently building the ML research pipeline at [RadNomics](https://radnomics.co.
 
 - ***Master of Science (MSc), Computer Science with Artificial Intelligence (Predicted Distinction)*** @ City St George’s, University of London
     - **Relevant modules:** _Machine Learning, Artificial Intelligence, Software Engineering_
+    - **Final project:** _Does Parameter-Efficient Fine-Tuning of a Lightweight, General-purpose LLM Improve Medical QA Performance?_
 - ***Bachelor of Medicine, Bachelor of Surgery (MBBS), Medicine*** @ Norwich Medical School, University of East Anglia
 
 ## Technical Skills
